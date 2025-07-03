@@ -48,35 +48,32 @@ type Question struct {
 	Type        string  `json:"type"`
 }
 
-type QuestionData struct {
-	id   int
-	data Question
-}
-
-func scrape(client *http.Client, questionID int, results chan QuestionData, errors chan error) {
+func scrape(client *http.Client, imgCache *ImageCache, questionID int) (Question, error) {
 	res, err := client.Get(baseURL + "/api/question/" + strconv.Itoa(questionID))
 	if err != nil {
-		errors <- fmt.Errorf("failed to retrieve question %d: %v", questionID, err)
+		return Question{}, fmt.Errorf("failed to retrieve question %d: %v", questionID, err)
 	}
 
 	if res.StatusCode != http.StatusOK {
-		errors <- fmt.Errorf("failed to retrieve question %d: received status %d", questionID, res.StatusCode)
-		return
+		return Question{}, fmt.Errorf("failed to retrieve question %d: received status %d", questionID, res.StatusCode)
 	}
 
 	defer res.Body.Close()
 
 	var data Question
 	if err := json.NewDecoder(res.Body).Decode(&data); err != nil {
-		errors <- fmt.Errorf("failed to retrieve question %d: failed to decode response body: %v", questionID, err)
-		return
+		return Question{}, fmt.Errorf("failed to retrieve question %d: failed to decode response body: %v", questionID, err)
 	}
 
-	results <- QuestionData{questionID, data}
+	if data.ImageFile != nil {
+		imgCache.Add(*data.ImageFile)
+	}
+
+	return data, nil
 }
 
-func write(data QuestionData) error {
-	path := filepath.Join("data", strconv.Itoa(data.id)+".json")
+func write(data []Question) error {
+	path := filepath.Join("data", "questions.json")
 
 	file, err := os.Create(path)
 	if err != nil {
@@ -85,37 +82,14 @@ func write(data QuestionData) error {
 
 	defer file.Close()
 
-	if err := json.NewEncoder(file).Encode(data.data); err != nil {
+	encoder := json.NewEncoder(file)
+	encoder.SetIndent("", "  ")
+
+	if err := encoder.Encode(data); err != nil {
 		return fmt.Errorf("failed to write to %s: %v", path, err)
 	}
 
 	return nil
-}
-
-func startWriter(wg *sync.WaitGroup, imageCache *ImageCache, results chan QuestionData) {
-	defer wg.Done()
-
-	for result := range results {
-		if result.data.ImageFile != nil {
-			imageCache.Add(*result.data.ImageFile)
-		}
-
-		if err := write(result); err != nil {
-			log.Println("Failed to write result:", err)
-		} else {
-			log.Printf("Wrote data for question %d\n", result.id)
-		}
-	}
-}
-
-func startScraper(wg *sync.WaitGroup, ids chan int, results chan QuestionData, errors chan error) {
-	defer wg.Done()
-
-	client := http.Client{}
-
-	for id := range ids {
-		scrape(&client, id, results, errors)
-	}
 }
 
 func readImages(cache *ImageCache) {
@@ -156,8 +130,6 @@ func readImage(image string) {
 }
 
 func main() {
-	workers := 4
-
 	if err := os.RemoveAll("data"); err != nil {
 		log.Fatalln("Failed to clear 'data' directory:", err)
 	}
@@ -172,42 +144,21 @@ func main() {
 
 	imgCache := &ImageCache{data: make(map[string]struct{})}
 
-	ids := make(chan int)
-	results := make(chan QuestionData)
-	errs := make(chan error)
-
-	wg := &sync.WaitGroup{}
-
-	wg.Add(1)
-	go startWriter(wg, imgCache, results)
-
-	wg.Add(1)
-	go func() {
-		defer wg.Done()
-
-		for err := range errs {
-			log.Println("Error:", err)
-		}
-	}()
-
-	scraperWg := &sync.WaitGroup{}
-	for range workers {
-		scraperWg.Add(1)
-		go startScraper(scraperWg, ids, results, errs)
-	}
-
+	var data []Question
 	for i := 1000; i <= 1305; i++ {
-		ids <- i
+		q, err := scrape(http.DefaultClient, imgCache, i)
+		if err != nil {
+			log.Printf("Error scraping question %d: %v\n", i, err)
+			continue
+		}
+
+		data = append(data, q)
+		log.Println("Successfully scraped question", i)
 	}
 
-	close(ids)
-
-	scraperWg.Wait()
-
-	close(results)
-	close(errs)
-
-	wg.Wait()
+	if err := write(data); err != nil {
+		log.Fatalln("Failed to write question data:", err)
+	}
 
 	readImages(imgCache)
 }

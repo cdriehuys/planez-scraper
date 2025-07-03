@@ -1,0 +1,2432 @@
+[
+  {
+    "answer": "At night the flight must be planned to land with 45 minutes of fuel remaining.\n\n(14 CFR \u0026sect;91.151)",
+    "certificate": "PRIVATE",
+    "createdDate": 1681062044946,
+    "imageFile": null,
+    "question": "On a VFR night flight, what’s your required fuel reserve?",
+    "questionId": 1000,
+    "type": "ALL"
+  },
+  {
+    "answer": "Smoking, low hemoglobin (anemia), certain medications, particularly those that act as depressants, even small amounts of alcohol, extreme heat and cold, even anxiety can make one more susceptible to hypoxia.  (AIM 8-1-2)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519814592,
+    "imageFile": null,
+    "question": "What are some of the factors than can make a pilot more susceptible to hypoxia and its effects?\n",
+    "questionId": 1001,
+    "type": "ALL"
+  },
+  {
+    "answer": "V\u003csub\u003eg\u003c/sub\u003e – Best glide\n\nhttps://www.faa.gov/news/safety_briefing/2018/media/SE_Topic_18-05.pdf",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928079,
+    "imageFile": null,
+    "question": "What is the airspeed (V-speed) where induced drag and parasite drag meet?",
+    "questionId": 1002,
+    "type": "ALL"
+  },
+  {
+    "answer": "The angle between the wing chord line and the fuselage. It cannot be changed",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928131,
+    "imageFile": null,
+    "question": "What is angle of incidence of the wing? Can we change it?",
+    "questionId": 1003,
+    "type": "ALL"
+  },
+  {
+    "answer": "A down-sloping runway or surrounding terrain can create the illusion that the aircraft is at a lower altitude than it actually is. The pilot who does not recognize this illusion will fly a higher approach.\n\n(PHAK p.17-10)",
+    "certificate": "PRIVATE",
+    "createdDate": 1675709963889,
+    "imageFile": null,
+    "question": "What illusion might impact a pilot landing on a down-sloping runway or with down-sloping terrain? \n",
+    "questionId": 1004,
+    "type": "ALL"
+  },
+  {
+    "answer": "Forecast is for KRDU airport\nIssued 12th day of the month at 11:20 Z\nForecast period from 12 Z on the 12th day of the month to 12 Z on the 13th day of the month\nWinds from 150 degrees at 3 knots\nVisibility 6 or more statute miles\nScattered clouds at 12,000 or more feet",
+    "certificate": "PRIVATE",
+    "createdDate": 1586695648719,
+    "imageFile": null,
+    "question": "Decode this TAF: KRDU 121120Z 1212/1312 15003KT P6SM SCT120",
+    "questionId": 1005,
+    "type": "ALL"
+  },
+  {
+    "answer": "They are Victor airways.",
+    "certificate": "PRIVATE",
+    "createdDate": 1675708603871,
+    "imageFile": "bfbadd17-7c4f-4dd7-86a6-418ef448952f.png",
+    "question": "What are the blue lines shown in the accompanying image?",
+    "questionId": 1006,
+    "type": "ALL"
+  },
+  {
+    "answer": "According to the FARs, you can't operate VFR within the lateral boundaries of controlled airspace designated to the surface when the ceiling is less than 1,000 feet. What you can do is pick up a Special VFR clearance and land.\n\nNote that \u0026sect;91.155 details VFR minimums and then refers to \u0026sect;91.157 for the details and constraints of the Special VFR clearance itself.\n\n(14 CFR \u0026sect;91.155(c) and 14 CFR \u0026sect;91.157)",
+    "certificate": "PRIVATE",
+    "createdDate": 1584383670237,
+    "imageFile": null,
+    "question": "You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900' ceilings. You're a non-instrument rated private pilot. Can you land there?",
+    "questionId": 1007,
+    "type": "ALL"
+  },
+  {
+    "answer": "\u003cli\u003e V\u003csub\u003ex\u003c/sub\u003e -Best Angle of Climb\u003c/li\u003e\n\u003cli\u003e V\u003csub\u003ey\u003c/sub\u003e -Best Rate of Climb\u003c/li\u003e\n\u003cli\u003e V\u003csub\u003ea\u003c/sub\u003e -Design maneuvering speed. The speed up to which full deflection of any single flight control is acceptable\u003c/li\u003e\n\u003cli\u003e V\u003csub\u003eno\u003c/sub\u003e -Maximum  structural speed for normal operations\u003c/li\u003e\n\u003cli\u003e V\u003csub\u003efe\u003c/sub\u003e -Maximum flaps extended speed\u003c/li\u003e\n\u003cli\u003e V\u003csub\u003ene\u003c/sub\u003e -Never exceed speed\u003c/li\u003e\n\u003cli\u003e V\u003csub\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/sub\u003e -Stall speed in a landing configuration\u003c/li\u003e\n\u003cli\u003e V\u003csub\u003eS\u003csub\u003e1\u003c/sub\u003e\u003c/sub\u003e -Stall speed at a designated configuration (generally, flaps and gear up)\u003c/li\u003e\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1583949678811,
+    "imageFile": null,
+    "question": "Define the following aircraft \"V-speeds\"",
+    "questionId": 1008,
+    "type": "ALL"
+  },
+  {
+    "answer": "A narrower-than-usual runway can create an illusion that the aircraft is higher than it actually is, leading to a lower approach.\n\n(PHAK p.17-10)",
+    "certificate": "PRIVATE",
+    "createdDate": 1675710190945,
+    "imageFile": null,
+    "question": "What illusion might impact a pilot landing on a narrower than familiar runway? ",
+    "questionId": 1009,
+    "type": "ALL"
+  },
+  {
+    "answer": "**Stable air** - Stratiform clouds, poor visibility, smooth air, continuous precipitation.  \n**Unstable air** - Cumuliform clouds or clouds with vertical development, good visibility, turbulence, and showery precipitation\n\n(Pilot’s Handbook of Aeronautical Knowledge Chapter 12)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788729818,
+    "imageFile": null,
+    "question": "What type of clouds, visibility and precipitation would you expect from stable air? Unstable air?",
+    "questionId": 1010,
+    "type": "ALL"
+  },
+  {
+    "answer": "Yes, but only if the pilot is instrument rated (and current) and the aircraft is equipped for IFR flight.\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519845255,
+    "imageFile": null,
+    "question": "Can you obtain a \"Special VFR Clearance\" at night?\n",
+    "questionId": 1011,
+    "type": "ALL"
+  },
+  {
+    "answer": "The gray lines represents a Military Training Route (in this case, an Instrument Training Route. VFR training routes are designated with a VR-number). Military training routes are significant because normal airspace speed limits for the airspace are not applicable and military aircraft may be travelling at speeds 300+ knots.\n\nMilitary Training routes designated with letters and two or three digits (e.g. IR718) are generally above 1,500' AGL. Military training Routes designated with letters and 4 digits (e.g. VR1046) are below 1,500' AGL.",
+    "certificate": "PRIVATE",
+    "createdDate": 1586706189630,
+    "imageFile": "b6005c1c-c2b1-4bf8-bf67-3cc38fec1e2e.png",
+    "question": "What does the gray line labeled \"IR718\" depict and why is this important to VFR pilots?",
+    "questionId": 1012,
+    "type": "ALL"
+  },
+  {
+    "answer": "The elevation of an airport is the highest point on the usable portion of the landing areas.\n\n(FAA Chart User's Guide p.14)",
+    "certificate": "PRIVATE",
+    "createdDate": 1586704679940,
+    "imageFile": null,
+    "question": "What point on the airport determines the airport elevation reported on charts?",
+    "questionId": 1013,
+    "type": "ALL"
+  },
+  {
+    "answer": "The height above the ground (AGL) of the lowest broken, overcast or \"obscuration\" layer of clouds or obscuring phenomenon which is not classified as \"thin\" or \"partial\".\n\n(14 CFR \u0026sect;1.1)",
+    "certificate": "PRIVATE",
+    "createdDate": 1579383593750,
+    "imageFile": null,
+    "question": "What is the definition of a ceiling?",
+    "questionId": 1014,
+    "type": "ALL"
+  },
+  {
+    "answer": "Wind shear at 1500 feet produced by winds of 40 knots from a direction of 150 (southeast).\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519156997,
+    "imageFile": null,
+    "question": "What is the meaning of the last element (WS015/15040KT) in this TAF segment:\n\u003cp\u003e\nKRDU 110528Z 1106/1206 09007KT 3SM -RA BR OVC006 WS015/15040KT",
+    "questionId": 1015,
+    "type": "ALL"
+  },
+  {
+    "answer": "* **Antiauthority** - you can't tell me what to do\n* **Impulsivity** - Do it **now**, don't take time to think\n* **Invulnerability** - It won't happen to **me**!\n* **Macho** - Heck, I can do that\n* **Resignation** - What is the use, it won't work out anyway\n\n(PHAK FAA-H-8083-25B, page 2-5)",
+    "certificate": "PRIVATE",
+    "createdDate": 1630583427381,
+    "imageFile": null,
+    "question": "What are the five hazardous attitudes identified by the FAA?",
+    "questionId": 1016,
+    "type": "ALL"
+  },
+  {
+    "answer": "The aircraft at the lower altitude.\n\n( 14 CFR 91.113 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646955104378,
+    "imageFile": null,
+    "question": "When two aircraft are approaching for a landing, which one normally has the right-of-way?",
+    "questionId": 1017,
+    "type": "ALL"
+  },
+  {
+    "answer": "* Notice of Proposed Rulemaking (NPRM), followed by a Final Rule\n* Final Rule; Request for Comments\n* Emergency ADs\n\nThese can also be viewed as \"emergency\" and \"non-emergency\" ADs\n\nPilot's Handbook of Aeronautical Knowledge 9-12, 14 CFR \u0026sect;39, \u003ca href=\"https://www.faa.gov/aircraft/air_cert/continued_operation/ad/type_pub/\"\u003e FAA website\u003c/a\u003e",
+    "certificate": "PRIVATE",
+    "createdDate": 1583929214111,
+    "imageFile": null,
+    "question": "What types of Airworthiness Directives (AD) are issued by the FAA?",
+    "questionId": 1018,
+    "type": "ALL"
+  },
+  {
+    "answer": "No, that would make you the operator of the aircraft making this scenario a part 135 (air taxi) operation. For that you would be required to have an ATP certificate.",
+    "certificate": "COMMERCIAL",
+    "createdDate": 1681062395008,
+    "imageFile": null,
+    "question": "As a commercial pilot can you be paid to rent an aircraft for someone and then fly them to a destination?",
+    "questionId": 1019,
+    "type": "ALL"
+  },
+  {
+    "answer": "FALSE.  This visual illusion may cause a pilot to believe that he is actually higher than he is, causing him to fly a low approach perhaps encountering obstacles or terrain. This is an excellent reason to employ any and all glide slope indications available, including but not limited to a PAPI, VASI, or, if equipped and capable, an instrument approach. And perhaps to avoid at night any runway without a visual glidepath indicator. (AIM 8-1-5)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519497874,
+    "imageFile": null,
+    "question": "When approaching at night a well-lit runway set in a dark area with little other surrounding lights or visible features, a pilot may be deceived into believing that he is lower than he actually is.  True or False?\n",
+    "questionId": 1020,
+    "type": "ALL"
+  },
+  {
+    "answer": "This acronym is used to evaluate whether the pilot is fit to fly. The individual letters stand for :  \n\n* **I** llness\n* **M** edication\n* **S** tress\n* **A** lcohol\n* **F** atigue\n* **E** ating/drinking\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1582542186628,
+    "imageFile": null,
+    "question": "What does the IMSAFE acronym stand for?",
+    "questionId": 1021,
+    "type": "ALL"
+  },
+  {
+    "answer": "Stall strips are a fixed device placed on the leading edge of the wing, close to the wing root, to help induce a stall toward the wing root so that the pilot still has directional control with the ailerons.",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788728444,
+    "imageFile": null,
+    "question": "What are stall strips?",
+    "questionId": 1022,
+    "type": "ALL"
+  },
+  {
+    "answer": "Isogonic lines on a sectional chart are a depiction of lines on the surface of the earth along which magnetic declination is equal, in units of 1 degree, east or west from true north. Magnetic declination (or variation) is a measure, along the horizontal plane, of the angular difference between magnetic north and true north.\n\n(Pilot’s Handbook of Aeronautical Knowledge 16-6, FAA Sectional Chart legends)",
+    "certificate": "PRIVATE",
+    "createdDate": 1581608615604,
+    "imageFile": null,
+    "question": "What do the isogonic lines on a sectional chart indicate?",
+    "questionId": 1023,
+    "type": "ALL"
+  },
+  {
+    "answer": "It is a military training route, in this case a VFR route (instrument routes are denoted with an IR identification). We care because there can be military aircraft traveling these routes, sometimes at a high rate of speed.",
+    "certificate": "PRIVATE",
+    "createdDate": 1675709003297,
+    "imageFile": "6baab340-d9be-4531-9236-c0d123779fbf.png",
+    "question": "In the accompanying image there is a grey/black line with the notation \"VR1046\". What does this line indicate, and why do we care?",
+    "questionId": 1024,
+    "type": "ALL"
+  },
+  {
+    "answer": "Indicated Airspeed (IAS)\n\n(Pilot's Handbook of Aeronautical Knowledge 8-8)",
+    "certificate": "PRIVATE",
+    "createdDate": 1668127689538,
+    "imageFile": null,
+    "question": "What is the term for the airspeed displayed on the airspeed indicator?",
+    "questionId": 1025,
+    "type": "ALL"
+  },
+  {
+    "answer": "An FAA approved list of equipment that can be inoperative.\n\n(Pilot's Handbook of Aeronautical Knowledge 8-9)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928014,
+    "imageFile": null,
+    "question": "What is a Minimum Equipment List?",
+    "questionId": 1026,
+    "type": "ALL"
+  },
+  {
+    "answer": "This is the Maximum Elevation Figure (MEF) which represents the highest elevation within a quadrant,\nincluding terrain and other vertical obstacles (towers, trees, etc.).\n\nWhen there is a man-made obstacle which is more than 200' above the highest terrain within the quadrant the MEF is calculated by the following process :\n\n1. Determine the elevation of the top of the obstacle above MSL.\n2. Add the possible vertical error of the source material to the above figure.\n3. Round the resultant figure up to the next higher hundred-foot level.\n\n(Aeronautical Chart User's Guide)",
+    "certificate": "PRIVATE",
+    "createdDate": 1582679990280,
+    "imageFile": "58cf2ed5-f528-43b0-adbc-0c12901b9757.png",
+    "question": "What do the large blue numbers in the image below (pointed to by the red arrow) indicate?",
+    "questionId": 1027,
+    "type": "ALL"
+  },
+  {
+    "answer": "**MCPRAWN**\n\n* Military Operation Area\n* Controlled Firing Areas (do not appear on charts)\n* Prohibited\n* Restricted\n* Alert\n* Warning Areas\n* National Security Areas",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788729083,
+    "imageFile": null,
+    "question": "What are the different types of Special Use Airspace?",
+    "questionId": 1028,
+    "type": "ALL"
+  },
+  {
+    "answer": "**ARROW**\n\n- Airworthiness Certificate\n- Registration\n- Radio License (for international flight)\n- Operating Limits and required placards\n- Weight and Balance/ required equipment lists\n\n(14 CFR \u0026sect;91.203)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577825091278,
+    "imageFile": null,
+    "question": "What documents must be in the aircraft for legal flight?",
+    "questionId": 1029,
+    "type": "ALL"
+  },
+  {
+    "answer": "\u003cli\u003e**Autokinesis**-Apparent movement. After staring at a point of light for a few moments, the light appears to move on its own\u003c/li\u003e\n\u003cli\u003e**False Horizon**-Illusion caused by the real horizon not being obvious and other areas of light or dark cause the perception of the wrong horizon.\u003c/li\u003e\n\u003cli\u003e**Reversible Perspective Illusion**-The perception that an object is moving away from the pilot when it is actually moving toward the pilot (or *vice versa*); often, when another airplane is flying parallel to the pilot's course\u003c/li\u003e\n\u003cli\u003e**Size-Distance Illusion**- An illusion caused by an object's varying brightness. A pilot may mistakenly interpret increasing brightness as closing movement.\u003c/li\u003e\n\u003cli\u003e**Fascination (Fixation)**-A tendency to become fixated on a particular object or area, inside or outside of the airplane, causing the pilot to lose perspective of the bigger picture\u003c/li\u003e\n\u003cli\u003e**Flicker Vertigo**-Lights flickering at a rate of 4-20 cycles per second can produce unpleasant and possibly dangerous reactions like nausea, vomiting or vertigo. Maintaining a constant scan can help prevent this reaction\u003c/li\u003e\n\n(Pilot's Handbook of Aeronautical Knowledge 17-26)",
+    "certificate": "PRIVATE",
+    "createdDate": 1584017069653,
+    "imageFile": null,
+    "question": "What are some examples of night vision illusions that might affect a pilot?",
+    "questionId": 1030,
+    "type": "ALL"
+  },
+  {
+    "answer": "1000 feet above the highest obstacle within a 2000-foot radius.\n\n( 14 CFR 91.119 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646955144743,
+    "imageFile": null,
+    "question": "What is the minimum safe altitude prescribed by general flight rules for aircraft over congested areas?",
+    "questionId": 1031,
+    "type": "ALL"
+  },
+  {
+    "answer": "Logging of night flight should be made in accordance with Part 1 definitions, which is from the end of evening civil twilight to the start of morning civil twilight. This differs from the definition used for night currency.\n\n(14 CFR §1.1)",
+    "certificate": "PRIVATE",
+    "createdDate": 1581609007924,
+    "imageFile": null,
+    "question": "For what time period of the day(night) can a pilot log night flying time?",
+    "questionId": 1032,
+    "type": "ALL"
+  },
+  {
+    "answer": "Squawking 7600 indicates you have \"Lost Communications\". The air traffic control tower would send the following light signals to an airplane in the air to transmit landing clearance or other intentions:\n\u003cli\u003e**Steady Green light:** Cleared to Land\u003c/li\u003e\n\u003cli\u003e**Flashing Green light:** Return for landing\u003c/li\u003e\n\u003cli\u003e**Steady Red light:** Give way to other aircraft and continue circling\u003c/li\u003e\n\u003cli\u003e**Flashing Red light:** Airport Unsafe: Do Not Land\u003c/li\u003e\n\u003cli\u003e**Alternating Red and Green light:** Exercise extreme caution \u003c/li\u003e\n\n(Pilot's Handbook of Aeronautical Knowledge 14-16)",
+    "certificate": "PRIVATE",
+    "createdDate": 1584019661008,
+    "imageFile": null,
+    "question": "What would your transponder squawk code be to indicate \"Lost Communications\" to air traffic control? After doing so and after you have begun circling the airport, what light signals might you expect to see from an air traffic control tower indicating whether you were cleared to land or not?",
+    "questionId": 1033,
+    "type": "ALL"
+  },
+  {
+    "answer": "Varies by engine model. See your airplane POH for specifications.",
+    "certificate": "PRIVATE",
+    "createdDate": 1583949911517,
+    "imageFile": null,
+    "question": "What is the normal range of RPM drop when checking a magneto during runup in the airplane you'll be flying on your checkride? What is the normal difference in RPM between magnetos during this check?",
+    "questionId": 1034,
+    "type": "ALL"
+  },
+  {
+    "answer": "\u003cli\u003eClear (or Glaze) Ice\u003c/li\u003e\n\u003cli\u003eRime Ice\u003c/li\u003e\n\u003cli\u003eMixed (Clear and Rime) Ice\u003c/li\u003e\n\u003cli\u003eFrost\u003c/li\u003e",
+    "certificate": "PRIVATE",
+    "createdDate": 1583933739393,
+    "imageFile": null,
+    "question": "Name 4 types of ice that may form on an aircraft's surface.",
+    "questionId": 1035,
+    "type": "ALL"
+  },
+  {
+    "answer": "The word “OBJECTIONABLE” associated with an airport symbol indicates that an objectionable airspace determination has been made for the airport per FAA JO 7400.2 Section 4, Airport Charting and Publication of Airport Data. Objectionable airspace determinations are based upon a number of factors including conflicting traffic patterns with another airport, hazardous runway conditions, or natural or man-made obstacles in close proximity to the landing area. FAA Regional Airports Offices are responsible for airspace determinations. Address any challenges to objectionable airspace determinations to your FAA Regional Airports Office.\n\n(FAA Aeronautical Chart User's Guide)",
+    "certificate": "PRIVATE",
+    "createdDate": 1582659772525,
+    "imageFile": "98ab9767-5d3e-402c-a7c3-c24b505afad0.png",
+    "question": "What does the word \"Objectionable\" indicate on a sectional chart?",
+    "questionId": 1036,
+    "type": "ALL"
+  },
+  {
+    "answer": "As velocity of a fluid or air increases, its pressure decreases. Higher speed air over the upper surface of a wing creates low pressure above the wing while the relatively lower speed air beneath the wing creates high pressure. High pressure moves upwards towards the lower pressure.\n\n(Pilot's Handbook of Aeronautical Knowledge 3-5)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928118,
+    "imageFile": null,
+    "question": "Explain Bernoulli’s Principle.",
+    "questionId": 1037,
+    "type": "ALL"
+  },
+  {
+    "answer": "As the aircraft loaded weight increases, Va increases. This is due to the fact that as weight goes up the aircraft has to fly at a higher AOA (at a given airspeed) to generate the required lift, thus putting it closer to the critical stall AOA. This means that the plane will stall before the load limit factor is exceeded.",
+    "certificate": "PRIVATE",
+    "createdDate": 1584383899069,
+    "imageFile": null,
+    "question": "What happens to maneuvering speed (Va) as the aircraft loaded weight goes up?",
+    "questionId": 1038,
+    "type": "ALL"
+  },
+  {
+    "answer": "\u003cstrong\u003eNewton's 3rd Law\u003c/strong\u003e - Airfoils accelerate airflow downward\u003cbr\u003e\n\u003cstrong\u003eBernoulli's Principle\u003c/strong\u003e - High speed air over the upper surface of a wing creates low pressure while low speed air beneath the wing creates high pressure. Low pressure above the wing is a essentially a suction force that keeps an airplane aloft. High pressure below the wing seeks to equalize the low pressure area above by pushing up against the airfoil and also contributes somewhat to lift.\n\nFor more discussion see :  \nhttps://www.scientificamerican.com/article/no-one-can-explain-why-planes-stay-in-the-air/",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928054,
+    "imageFile": null,
+    "question": "How is lift created?",
+    "questionId": 1039,
+    "type": "ALL"
+  },
+  {
+    "answer": "Airspeed indicator, altimeter and vertical speed indicator",
+    "certificate": "PRIVATE",
+    "createdDate": 1583935058542,
+    "imageFile": null,
+    "question": "What aircraft instrument(s) is/are connected to the aircraft's static air system?",
+    "questionId": 1040,
+    "type": "ALL"
+  },
+  {
+    "answer": "**Taxiway** edge lights are blue. **Runway** edge lights are white (but are yellow in the last 2,000 or last half of the runway (whichever is less) on runways used for instrument approaches).\n\n(Aeronautical Information Manual 2-1-11 and 2-1-4)",
+    "certificate": "PRIVATE",
+    "createdDate": 1584028877267,
+    "imageFile": null,
+    "question": "What color are taxiway edge lights? What color are runway edge lights?",
+    "questionId": 1041,
+    "type": "ALL"
+  },
+  {
+    "answer": "The encoding of '9900' means the winds are light and variable.",
+    "certificate": "PRIVATE",
+    "createdDate": 1584383747294,
+    "imageFile": null,
+    "question": "The winds aloft are '9900'. What does that mean?",
+    "questionId": 1042,
+    "type": "ALL"
+  },
+  {
+    "answer": "\u003cli\u003e**Civilian Land:** alternating white and green flashes\u003c/li\u003e\n\u003cli\u003e**Military:** two quick white flashes alternating with one green flash\u003c/li\u003e\n\u003cli\u003e**Water:** flashing white and yellow\u003c/li\u003e\n\u003cli\u003e**Heliport:** flashing white, yellow and green\u003c/li\u003e\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1584018665927,
+    "imageFile": null,
+    "question": "What color(s) and pattern of airport beacon flashes should you see for a civilian land airport?\nFor a military land airport?\nFor a water airport?\nFor a heliport?",
+    "questionId": 1043,
+    "type": "ALL"
+  },
+  {
+    "answer": "Except for a student pilot who is undergoing training for a certificate and has a current solo endorsement, a flight review every 24 months.\n\n(14 CFR \u0026sect;61.56, \u0026sect;61.57)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577824244825,
+    "imageFile": null,
+    "question": "What actions must a private pilot take over time to retain their private pilot privileges?",
+    "questionId": 1044,
+    "type": "ALL"
+  },
+  {
+    "answer": "Classes A, B, C, and D only.\n\n( 14 CFR 91.129, 91.130, 91.131, and 91.135 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646954731710,
+    "imageFile": null,
+    "question": "Within which airspace classes are pilots expected to maintain two-way radio contact?",
+    "questionId": 1045,
+    "type": "ALL"
+  },
+  {
+    "answer": "* Annual Inspection \u0026 Airworthiness Directives\n* VOR (if using VORs for instrument flight)\n* 100 hour (if the aircraft is being used for commercial flying)\n* Altimeter/static system (if the aircraft is being used for instrument flight)\n* Transponder\n* ELT (checked every 12 calendar months)",
+    "certificate": "PRIVATE",
+    "createdDate": 1675707173870,
+    "imageFile": null,
+    "question": "If you have your own plane what inspections do you need?",
+    "questionId": 1046,
+    "type": "ALL"
+  },
+  {
+    "answer": "* High heat\n* High humidity\n* High altitude\n* Low barometric pressure",
+    "certificate": "PRIVATE",
+    "createdDate": 1582558721315,
+    "imageFile": null,
+    "question": " What factors contribute to high density altitude?",
+    "questionId": 1047,
+    "type": "ALL"
+  },
+  {
+    "answer": "Care must be taken to manage heat in the turbocharger. This is true during operation and is managed by watching the turbine inlet temperature. Also, at engine shutdown the engine should be allowed to run at a low power setting to allow the turbocharger to cool down. Failing to do so can damage the turbocharger and shorten it's operating life.",
+    "certificate": "COMMERCIAL",
+    "createdDate": 1681076489393,
+    "imageFile": null,
+    "question": "When flying with a turbocharged engine what care must be taken with the turbocharger?",
+    "questionId": 1048,
+    "type": "ALL"
+  },
+  {
+    "answer": "Instrument Flight Rules (IFR) is when ceilings are 500 to less than 1,000 feet and/or visibility 1 to less than 3 miles.",
+    "certificate": "PRIVATE",
+    "createdDate": 1656595705398,
+    "imageFile": null,
+    "question": "What defines the current flight conditions as being IFR.",
+    "questionId": 1049,
+    "type": "ALL"
+  },
+  {
+    "answer": "An accident in which any person suffers death or serious injury or in which the aircraft sustains substantial damage. These criteria are elaborated in NTSB 830.2\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519938291,
+    "imageFile": null,
+    "question": "Define an aircraft accident as determines a required report to the NTSB.\n",
+    "questionId": 1050,
+    "type": "ALL"
+  },
+  {
+    "answer": "The time when airplane position (navigation) lights must be lighted: Sunset to sunrise (14 CFR §91.209)\n\nThe time when a pilot can log night flight hours: Thirty minutes after the beginning of evening civil twilight until thirty minutes before the end of morning civil twilight. (14 CFR \u0026sect;1.1: *\"Night\"*)\n\nNOTE : Here's the Navy's definition: \"civil twilight is defined to begin in the morning, and to end in the evening when the center of the Sun is geometrically 6 degrees below the horizon.\" A good rule-of-thumb for calculating civil twilight is that it usually ends between 20-35 minutes after sunset.\n\nThe time when a pilot must conduct 3 full-stop landings to be current to carry passengers at night: One hour after sunset until one hour before sunrise.(14 CFR \u0026sect;61.57(b))\n\nThe officially sanctioned source of these times is the U.S. Naval Observatory Air Almanac.\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1582510526452,
+    "imageFile": null,
+    "question": "What are the three conditions where consideration of \"night\", according to the FAA, are of interest to the private pilot?",
+    "questionId": 1051,
+    "type": "ALL"
+  },
+  {
+    "answer": "Atmospheric haze can create an illusion of being at a greater distance and height from the runway. As a result, the pilot has a tendency to be low on the approach.\n\n(PHAK p.17-10)",
+    "certificate": "PRIVATE",
+    "createdDate": 1675710072727,
+    "imageFile": null,
+    "question": "What illusion might impact a pilot landing in haze? ",
+    "questionId": 1052,
+    "type": "ALL"
+  },
+  {
+    "answer": "It means that at least one runway is greater than 8069 feet long. Why that number? It is because at the scale to which the sectional is drawn, and given the normal size of the circle, anything longer than 8069 simply doesn't fit within the depicted circle.\n\n(FAA Sectional Chart Legend, FAA Chart User's Guide p13)",
+    "certificate": "PRIVATE",
+    "createdDate": 1581608500839,
+    "imageFile": null,
+    "question": "What does it mean when the runway depicted on a sectional chart is not in a circle?",
+    "questionId": 1053,
+    "type": "ALL"
+  },
+  {
+    "answer": "The FAA recommends pilots circumnavigate severe thunderstorms or those with an extreme radar echo by at least 20 nautical miles. If flying around thunderstorms is not an option, stay on the ground.\n\n(Pilot's Handbook of Aeronautical Knowledge 12-22)",
+    "certificate": "PRIVATE",
+    "createdDate": 1584015298645,
+    "imageFile": null,
+    "question": "What distance does the FAA recommend as a good rule of thumb to remain away from severe thunderstorms in flight?",
+    "questionId": 1054,
+    "type": "ALL"
+  },
+  {
+    "answer": "Somatogravic illusion.  It is caused by rapid acceleration that deceives the vestibular system of the the inner ear to mistake acceleration for a change in posture.  This confusion may tempt a pilot to pitch down into a diving attitude. (AIM 8-1-5)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519471678,
+    "imageFile": null,
+    "question": "On takeoff or a go-around you sense incorrectly that the airplane is in an excessively high pitch attitude.  What is the name of this illusion and what causes it?\n",
+    "questionId": 1055,
+    "type": "ALL"
+  },
+  {
+    "answer": "Temperatures above 24,000 feet omit any plus (+) or minus (-) sign under the assumption that temperature (Celcius) is always negative at that altitude and above.\n\n(Pilot’s Handbook of Aeronautical Knowledge 13-13)",
+    "certificate": "PRIVATE",
+    "createdDate": 1579383849354,
+    "imageFile": null,
+    "question": "How are temperatures reported in winds aloft forecasts above 24,000 identified?",
+    "questionId": 1056,
+    "type": "ALL"
+  },
+  {
+    "answer": "-SHRA means light rain showers and BR is the code for mist.\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519432710,
+    "imageFile": null,
+    "question": "What does \"-SHRA BR\" mean in the context of this TAF segment?\n\u003cp\u003e\nFM111700 17015G27KT 6SM -SHRA BR OVC015",
+    "questionId": 1057,
+    "type": "ALL"
+  },
+  {
+    "answer": "The aircraft on the right.\n\n( 14 CFR 91.113 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646955078542,
+    "imageFile": null,
+    "question": "When two aircraft of the same category are converging at approximately the same altitude, which aircraft has the right-of-way?",
+    "questionId": 1058,
+    "type": "ALL"
+  },
+  {
+    "answer": "**Privileges** – Act as Pilot in Command (PIC) and carry passengers  \n**Limitations** – Cannot fly for hire; must pay no less than pro rata share of expenses of the flight.\n\n(14 CFR \u0026sect;61.113)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577824244823,
+    "imageFile": null,
+    "question": "What privileges and limitations are associated with a private pilot certificate?",
+    "questionId": 1059,
+    "type": "ALL"
+  },
+  {
+    "answer": "\"Aviate, navigate, communicate\" reminds us what is most important and how to prioritize our responsibilities when flying.  Fly the airplane first and foremost.  Navigate when you can. Communicate when you need help. In an emergency or dangerous situation, always fly the airplane and do the rest only when you have time.  (FAA-H-8083-25)",
+    "certificate": "PRIVATE",
+    "createdDate": 1668518815488,
+    "imageFile": null,
+    "question": "What does the phrase \"aviate, navigate, communicate\" recommend?",
+    "questionId": 1060,
+    "type": "ALL"
+  },
+  {
+    "answer": "If you are flying VFR above 3,000' AGL and your magnetic **course** is 0˚-179˚: You should fly at an altitude of **ODD** thousand +500' (e.g. 3,500', 5,500')\n\nIf you are flying VFR above 3,000' AGL and your magnetic **course** is 180˚-359˚: You should fly at an altitude of **EVEN** thousand +500' (e.g. 4,500', 6,500')\n\n(14 CFR \u0026sect;91.159)",
+    "certificate": "PRIVATE",
+    "createdDate": 1584031017163,
+    "imageFile": null,
+    "question": "Describe appropriate VFR cruising altitudes.",
+    "questionId": 1061,
+    "type": "ALL"
+  },
+  {
+    "answer": "Low Instrument Flight Rules (LIFR) are when ceilings are less than 500 feet above ground level and/or visibility is less than 1 mile.",
+    "certificate": "PRIVATE",
+    "createdDate": 1656594405828,
+    "imageFile": null,
+    "question": "What defines the current flight conditions as being LIFR.",
+    "questionId": 1062,
+    "type": "ALL"
+  },
+  {
+    "answer": "14 CFR 91.3 and 14 CFR 91.123",
+    "certificate": "PRIVATE",
+    "createdDate": 1646955418296,
+    "imageFile": null,
+    "question": "What rules authorize a pilot to deviate from the FARs or Air Traffic Control (ATC) instructions?",
+    "questionId": 1063,
+    "type": "ALL"
+  },
+  {
+    "answer": "It affects all aspects of aircraft performance. High density altitude (i.e. lower air density) means :\n\n* Less oxygen to burn in the engine, which reduces power output\n* Less thrust generated by the propeller\n* Less lift generated by the wings.",
+    "certificate": "PRIVATE",
+    "createdDate": 1582558808894,
+    "imageFile": null,
+    "question": "Why does high density altitude matter?",
+    "questionId": 1064,
+    "type": "ALL"
+  },
+  {
+    "answer": "It may mean that the airport is currently experiencing meteorological conditions below VFR minimums (ceiling \u003c1,000 feet or ground visibility \u003c3SM, but such lighting is not mandatory.\n\n(Pilot's Handbook of Aeronautical Knowledge 14-16)",
+    "certificate": "PRIVATE",
+    "createdDate": 1582556176213,
+    "imageFile": null,
+    "question": "What may it mean when the airport beacon is on during the day?",
+    "questionId": 1065,
+    "type": "ALL"
+  },
+  {
+    "answer": "__Notice to Airmen__\n\nFor a short time this acronym stood for \"Notices to Air Missions\", but the language was switched back to the old meaning with a change in administration.",
+    "certificate": "PRIVATE",
+    "createdDate": 1681060931174,
+    "imageFile": null,
+    "question": "And what does NOTAM stand for?",
+    "questionId": 1066,
+    "type": "ALL"
+  },
+  {
+    "answer": "No, you can only spin loaded in the utility category. There are often lower weight limits for spinning.",
+    "certificate": "PRIVATE",
+    "createdDate": 1675709310407,
+    "imageFile": null,
+    "question": "Can you spin an aircraft loaded in the normal category?",
+    "questionId": 1067,
+    "type": "ALL"
+  },
+  {
+    "answer": "**Parasitic** – This increases with speed (includes form, interference, and skin friction drag)  \n**Induced** – This is a byproduct of lift",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928067,
+    "imageFile": null,
+    "question": "Explain different types of drag.",
+    "questionId": 1068,
+    "type": "ALL"
+  },
+  {
+    "answer": "As described in 14 CFR 91.225, ADS-B Out performance is required to operate in:\n\n1. Class A, B, and C airspace.\nAbove the ceiling and within the lateral boundaries of a Class B or Class C airspace area upward to 10,000 feet MSL.\n1. Class E airspace within the 48 contiguous states and the District of Columbia at and above 10,000 feet MSL, excluding the airspace at and below 2,500 feet above the surface.\n1. Class E airspace at and above 3,000 feet MSL over the Gulf of Mexico from the coastline of the United States out to 12 nautical miles.\n1. Within 30 nautical miles of those airports identified in 14 CFR part 91, Appendix D. Otherwise known as the Mode C veil.\n\nThe ADS-B Out requirements do not apply in the airspace defined in item 4 above for any aircraft not originally certificated with an electrical system or that has not subsequently been certified with such a system installed, including balloons and gliders. Such aircraft may also operate within the Mode C veil as long as they remain outside the lateral boundaries of Class B or C airspace. See CFR 91.225 sections (d) and (e) for details.\n\nFrom : https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq",
+    "certificate": "PRIVATE",
+    "createdDate": 1671366465255,
+    "imageFile": null,
+    "question": "Where are you required to have ADS-B out operating in your aircraft?",
+    "questionId": 1069,
+    "type": "ALL"
+  },
+  {
+    "answer": "**Ridge** – extended area of high pressure – descending air  \n**Trough** – extended area of low pressure – rising air\n\n(Pilot’s Handbook of Aeronautical Knowledge 12-12)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788730020,
+    "imageFile": null,
+    "question": "What is a barometric pressure \"ridge\"?\n\nWhat is a \"trough\"?",
+    "questionId": 1070,
+    "type": "ALL"
+  },
+  {
+    "answer": "**A TOMATO FLAMES**\n\n- A – Altimeter\n- T – Tachometer\n- O – Oil Temperature Gauge\n- M – Manifold Pressure Gauge (If applicable)\n- A – Airspeed Indicator\n- T – Temperature Gauge (For each liquid cooled engine)\n- O – Oil Pressure Gauge\n- F – Fuel Gauges\n- L – Landing Gear Position Indicator (If applicable)\n- A – Anti-Collision Lights (For aircraft manufactured after March 11, 1996)\n- M – Magnetic Compass\n- E – ELT\n- S – Seat Belts\n\n(14 CFR §91.205(b))",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921927961,
+    "imageFile": null,
+    "question": "What equipment and instruments must be operational in the airplane for daytime VFR flight?",
+    "questionId": 1071,
+    "type": "ALL"
+  },
+  {
+    "answer": "* 12 calendar months for operations requiring a second class medical certificate, or\n* 24 calendar months for operations requiring a third class medical certificate, if the airman is age 40 or over on or before the date of the examination, or\n* 60 calendar months for operations requiring a third class medical certificate _if the airman has not reached age 40 on or before the date of examination._\n\nhttps://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/ame/guide/app_process/general/validity/",
+    "certificate": "PRIVATE",
+    "createdDate": 1675706835608,
+    "imageFile": null,
+    "question": "When does a 2nd class medical expire?",
+    "questionId": 1072,
+    "type": "ALL"
+  },
+  {
+    "answer": "15˚C or 59˚F  and 29.92 inches Hg or 1013.2 mb",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788894325,
+    "imageFile": null,
+    "question": "What are the standard temperature and pressure values for sea level?",
+    "questionId": 1073,
+    "type": "ALL"
+  },
+  {
+    "answer": "TAFs are issued at least four times a day, every six hours, for major civil airfields: 0000, 0600, 1200 and 1800 UTC, and generally apply to a 24- or 30-hour period, and an area within approximately five statute miles from the center of an airport runway complex.\n\n(Aeronautical Information Manual 7-1-31)",
+    "certificate": "PRIVATE",
+    "createdDate": 1582291323653,
+    "imageFile": null,
+    "question": "When are TAFs issued during the day?",
+    "questionId": 1074,
+    "type": "ALL"
+  },
+  {
+    "answer": "All three flight instruments (airspeed, vertical speed, and altimeter) are connected to the **static** ports.\n\n(Pilot's Handbook of Aeronautical Knowledge 8-1)",
+    "certificate": "PRIVATE",
+    "createdDate": 1631618686324,
+    "imageFile": null,
+    "question": "What flight instrument(s) is/are connected to the static ports?",
+    "questionId": 1075,
+    "type": "ALL"
+  },
+  {
+    "answer": "The icon indicates that there is sailplane/glider activity in the area.",
+    "certificate": "PRIVATE",
+    "createdDate": 1582666170933,
+    "imageFile": "bdbe33b7-806d-48fc-a7de-99722ad7807a.png",
+    "question": "What does the icon pointed to by the red arrow indicate?",
+    "questionId": 1076,
+    "type": "ALL"
+  },
+  {
+    "answer": "The pilot has thirty days to submit the address change to the FAA.\n\n(14 CFR §61.60)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577825287774,
+    "imageFile": null,
+    "question": "If a pilot changes their permanent mailing address, how long can the pilot continue to exercise the privileges of their pilot certificate without notifying the FAA?",
+    "questionId": 1077,
+    "type": "ALL"
+  },
+  {
+    "answer": "The small parachute icon indicates that there is are jump activities in the area. If there happens to be a frequency beside the parachute icon, that indicates a frequency that can be used to monitor jump operations. ",
+    "certificate": "PRIVATE",
+    "createdDate": 1582666047232,
+    "imageFile": "0e36bb4a-1a29-4d49-97c7-0602c723bb30.png",
+    "question": "What does the icon pointed to by the red arrow indicate?",
+    "questionId": 1078,
+    "type": "ALL"
+  },
+  {
+    "answer": "It is not legal to fly the airplane beyond the time when its annual inspection is due. An airplane *can* be legally flown, no more than 10 hours beyond 100 hours, in order to get the airplane to a location where the 100-hour inspection takes place.\n\n(14 CFR §91-409)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921927895,
+    "imageFile": null,
+    "question": "Is it legal to fly your airplane beyond the time when its annual inspection is due? When the 100-hour inspection is due?",
+    "questionId": 1079,
+    "type": "ALL"
+  },
+  {
+    "answer": "- Annual – every 12 calendar months\n- VOR – every 30 days (for IFR certified aircraft)\n- 100 hour if airplane is for hire\n- Altimeter/Pitot Static – every 24 calendar months\n- Transponder – every 24 calendar months\n- ELT – every 12 calendar months AND Battery must be replaced or recharged after 1 hour cumulative use or half of battery life\n- Service bulletins and Airworthiness Directives (AD) complied with\n\n(14 CFR \u0026sect;91.409)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921927862,
+    "imageFile": null,
+    "question": "Describe the various required airplane inspection frequencies (AVIATES)",
+    "questionId": 1080,
+    "type": "ALL"
+  },
+  {
+    "answer": "The only flight instrument connected to the **pitot** is the airspeed indicator.\n\n(Pilot's Handbook of Aeronautical Knowledge 8-1)",
+    "certificate": "PRIVATE",
+    "createdDate": 1631618608949,
+    "imageFile": null,
+    "question": "Which flight instrument(s) is/are connected to the pitot?",
+    "questionId": 1081,
+    "type": "ALL"
+  },
+  {
+    "answer": "A special flight permit  or \"ferry permit\" might be obtained from an FAA Flight Standards District Office (FSDO) that would prescribe conditions allowing conditional flight(s) to occur.\n\n(14 CFR §21.197)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921927910,
+    "imageFile": null,
+    "question": "Is there any way to fly an aircraft that is not legally airworthy?",
+    "questionId": 1082,
+    "type": "ALL"
+  },
+  {
+    "answer": "An Airworthiness Directive (AD) is an FAA issued order to fix a known/possible issue with an airplane. Compliance with it is mandatory for the airplane to be otherwise legal to fly.\n\n(Pilot's Handbook of Aeronautical Knowledge 8-12)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921927879,
+    "imageFile": null,
+    "question": "What is an Airworthiness Directive? Is compliance with it mandatory?",
+    "questionId": 1083,
+    "type": "ALL"
+  },
+  {
+    "answer": "* Aircraft will need to be trimmed nose down because the weight is further back, resulting in the wing being further from its critical angle of attack.\n* Aircraft is less stable\n* Performance increases due to the low angle of attack\n* Lower takeoff speed\n* Lower stall speed, since there is more of a difference between the\nangle of attack at cruise speed versus slower flight.\n* More difficult to recover from stall  (will be harder to push the\nnose down with weight in the back)\n\n(Pilot's Handbook of Aeronautical Knowledge 10-2)\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1582559091315,
+    "imageFile": null,
+    "question": " What happens to an aircraft if the CG is very aft?",
+    "questionId": 1084,
+    "type": "ALL"
+  },
+  {
+    "answer": "(Varies by aircraft model. See your POH)",
+    "certificate": "PRIVATE",
+    "createdDate": 1583949753712,
+    "imageFile": null,
+    "question": "What is the best glide speed for the aircraft you'll be flying on your checkride?",
+    "questionId": 1085,
+    "type": "ALL"
+  },
+  {
+    "answer": "Airworthiness certificate, registration, pilot operating handbook, and weight and balance.\n\n( 14 CFR 91.9, 91.203 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646955254474,
+    "imageFile": null,
+    "question": "What (aircraft) documentation is required to be on board for flight?",
+    "questionId": 1086,
+    "type": "ALL"
+  },
+  {
+    "answer": "Rapid change in wind direction or velocity – it can cause dramatic changes in indicated airspeed and cause turbulence within the shear zone.\n\n(Pilot’s Handbook of Aeronautical Knowledge 12-11)",
+    "certificate": "COMMERCIAL",
+    "createdDate": 1578931169790,
+    "imageFile": null,
+    "question": "What is wind shear? Why is it an operational hazard?",
+    "questionId": 1087,
+    "type": "ALL"
+  },
+  {
+    "answer": "Calibrated airspeed (CAS)\n\n(Pilot's Handbook of Aeronautical Knowledge 8-9)\n\n\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668127513024,
+    "imageFile": null,
+    "question": "What is the term for indicated airspeed corrected installation error and instrument error?",
+    "questionId": 1088,
+    "type": "ALL"
+  },
+  {
+    "answer": "**PAPI** = Precision Approach Path Indicator is generally a 4-light array to the left (less commonly, right) of the approach end of a runway that indicates, though the use of varying red and white light reflections, that an airplane is on the appropriate glide path (commonly a 3˚ slope) on approach to a runway. Remaining on the designated glidepath can allow the aircraft to avoid ground obstacles along the approach and thereby, also clear any displaced landing threshold.\n\n(Aeronautical Information Manual 2-1-2)",
+    "certificate": "PRIVATE",
+    "createdDate": 1584020761325,
+    "imageFile": null,
+    "question": "What is a \"PAPI\" and what does it indicate?",
+    "questionId": 1089,
+    "type": "ALL"
+  },
+  {
+    "answer": "- 100LL is dyed blue\n- 115/145 is dyed purple\n- 100/130 is dyed green\n- 80/87 is  dyed red\n\n(Pilot's Handbook of Aeronautical Knowledge 7-27)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577923244369,
+    "imageFile": null,
+    "question": "What color is 100LL gasoline? How about other types of fuel?",
+    "questionId": 1090,
+    "type": "ALL"
+  },
+  {
+    "answer": "According to \u0026sect;61.57(b)(1), no person may act as pilot in command of an aircraft carrying passengers during the period _beginning 1 hour after sunset and ending 1 hour before sunrise_, unless within the preceding 90 days that person has made at least three takeoffs and three landings **to a full stop** during the period beginning 1 hour after sunset and ending 1 hour before sunrise.\n\n(14 CFR \u0026sect;61.57)",
+    "certificate": "PRIVATE",
+    "createdDate": 1581609116976,
+    "imageFile": null,
+    "question": "What is required for a pilot to be night current to carry passengers?",
+    "questionId": 1091,
+    "type": "ALL"
+  },
+  {
+    "answer": "At least a student pilot certificate.\n\n(AIM 3-2-6)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519010465,
+    "imageFile": null,
+    "question": "What is the minimum pilot certification required to operate in Class E airspace?\n",
+    "questionId": 1092,
+    "type": "ALL"
+  },
+  {
+    "answer": "***RP** indicates that there are special conditions or restrictions for right traffic and the pilot should consult the Chart Supplement for those special instructions and/or restrictions. ***RP** does not indicate that there is right patterned traffic for all aircraft at all times.\n\nREF: https://www.faa.gov/air_traffic/flight_info/aeronav/faq/#q3c",
+    "certificate": "PRIVATE",
+    "createdDate": 1656784053405,
+    "imageFile": "c3711ac5-49c7-49f3-9392-062cf30324d8.png",
+    "question": "In the image below, what does the \"*RP\" indicate?",
+    "questionId": 1093,
+    "type": "ALL"
+  },
+  {
+    "answer": "Sierra: IFR conditions or mountain obscuration\u003cbr\u003e\nTango: Turbulence\u003cbr\u003e\nZulu: Icing Conditions",
+    "certificate": "PRIVATE",
+    "createdDate": 1586698333759,
+    "imageFile": null,
+    "question": "What factors does an AIRMET Sierra cover? AIRMET Tango? AIRMET Zulu?",
+    "questionId": 1094,
+    "type": "ALL"
+  },
+  {
+    "answer": "A TAF is a Terminal Aerodrome Forecast. It is issued 4 times a day; every 6 hours; generally at 0000, 0600, 1200 and 1800Z and may be amended as necessary. Each is valid for the succeeding 24-30 hours. The forecast is for an area within 5 statute miles of the airport.\n\n(Aeronautical Information Manual 7-1-31)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578931170363,
+    "imageFile": null,
+    "question": "What is a TAF? When are they issued? How long are they valid? What is their area of coverage??",
+    "questionId": 1095,
+    "type": "ALL"
+  },
+  {
+    "answer": "* Takeoff before the heavy aircraft's point of rotation.\n* Land after the heavy aircraft's touchdown point.\n* Fly above and behind, since the vortices sink.",
+    "certificate": "PRIVATE",
+    "createdDate": 1582558891080,
+    "imageFile": null,
+    "question": "How do you avoid wake turbulence (Remember: wake turbulence is generated by lift)?",
+    "questionId": 1096,
+    "type": "ALL"
+  },
+  {
+    "answer": "Pilots have until the end of the 24th calendar month to complete a flight review. Based on the example in the question the pilot would need to complete their flight review prior to August 31, 2021.\n\n(14 CFR \u0026sect;61.56(c))",
+    "certificate": "PRIVATE",
+    "createdDate": 1584383976751,
+    "imageFile": null,
+    "question": "You passed your private pilot checkride on August 4th, 2019. Assuming you don't take any more checkrides, when do you need to complete your next flight review?",
+    "questionId": 1097,
+    "type": "ALL"
+  },
+  {
+    "answer": "The holder of an FAA Inspection Authorization (IA) certificate.\n\n(14 CFR \u0026sect;65.95)",
+    "certificate": "PRIVATE",
+    "createdDate": 1583930834604,
+    "imageFile": null,
+    "question": "Who needs to approve (sign off on) an aircraft's Annual Inspection?",
+    "questionId": 1098,
+    "type": "ALL"
+  },
+  {
+    "answer": "An annual inspection does meet the requirements of the 100-hour inspection. The components of each are described in Appendix D of 14 CFR §43. A 100-inspection does not necessarily meet the requirements of an annual inspection unless it is also approved as an annual inspection by the holder of an FAA Inspection Authorization (IA).",
+    "certificate": "PRIVATE",
+    "createdDate": 1583931864901,
+    "imageFile": null,
+    "question": "Will an annual inspection meet the requirements of a 100-hour inspection? Vice versa?",
+    "questionId": 1099,
+    "type": "ALL"
+  },
+  {
+    "answer": "True, the FARs require such a briefing and also specify that the passengers should be instructed to fasten their seat belts before movement on the surface, takeoff and landing.\n\n(FAR 91.107)",
+    "certificate": "PRIVATE",
+    "createdDate": 1646954331027,
+    "imageFile": null,
+    "question": "The Pilot In Command is responsible for seeing that all passengers are briefed before takeoff on the use of seat belts and, if installed, shoulder harness. True? or False?",
+    "questionId": 1100,
+    "type": "ALL"
+  },
+  {
+    "answer": "Only Jet A fuel is clear in color.\n\n(Pilot's Handbook of Aeronautical Knowledge 7-27)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577923244382,
+    "imageFile": null,
+    "question": "What type of fuel is clear?",
+    "questionId": 1101,
+    "type": "ALL"
+  },
+  {
+    "answer": "A commercial certificate allows you to be hired to fly others in their aircraft. For other types of flying such as part 121 (airline) or part 135 (air taxi) flying an ATP certificate is also required.",
+    "certificate": "COMMERCIAL",
+    "createdDate": 1681062301101,
+    "imageFile": null,
+    "question": "As a commercial pilot, if someone owns a plane and they don’t know how to fly it, can they legally pay you to fly them around.",
+    "questionId": 1102,
+    "type": "ALL"
+  },
+  {
+    "answer": "A Temporary Flight Restriction (TFR) is a type of Notice to Airmen (NOTAM) which defines an area restricted to air travel due to a hazardous condition, a special event, or a general warning for airspace. The text of the actual TFR contains the fine points of the restriction.\n\nOfficially, information on TFRs can be found on \u003ca href=\"https://tfr.faa.gov/\" target=\"_blank\"\u003e https://tfr.faa.gov/ \u003c/a\u003e or through Flight Service at 1-800-wxbrief.",
+    "certificate": "PRIVATE",
+    "createdDate": 1583951073196,
+    "imageFile": null,
+    "question": "What is a TFR? What are examples of official sources to learn of/about TFRs?",
+    "questionId": 1103,
+    "type": "ALL"
+  },
+  {
+    "answer": "The temperature at which the air can hold no more moisture. When the temperature falls to the dew point, moisture in the air condenses and forms fog, dew, frost, clouds, rain or snow.\n\n(Pilot’s Handbook of Aeronautical Knowledge 12-13)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578931169889,
+    "imageFile": null,
+    "question": "What does dew point mean?",
+    "questionId": 1104,
+    "type": "ALL"
+  },
+  {
+    "answer": "Because there could be high-speed military aircraft operating along those routes.",
+    "certificate": "PRIVATE",
+    "createdDate": 1681075753120,
+    "imageFile": null,
+    "question": "Why are military training routes (MTRs) charted on VFR sectional charts?",
+    "questionId": 1105,
+    "type": "ALL"
+  },
+  {
+    "answer": "A SFRA is an area within which Special Federal Aviation Regulations apply.  Two of the best known are the Washington DC SFRA and the Grand Canyon SFRA.  Special procedures and regulations for a SFRA are found in 14 CFR Part 93.",
+    "certificate": "PRIVATE",
+    "createdDate": 1668518910892,
+    "imageFile": null,
+    "question": "What is a Special Flight Rules Area (SFRA)?\n",
+    "questionId": 1106,
+    "type": "ALL"
+  },
+  {
+    "answer": "The pressure altimeter is an aneroid barometer that measures the pressure of the atmosphere at the level where the altimeter is located and presents an altitude indication in feet. The altimeter uses static pressure as its source of operation.\n\n(PHAK, FAA-H-8083-25B, pages 8-3,4)",
+    "certificate": "PRIVATE",
+    "createdDate": 1650977842139,
+    "imageFile": null,
+    "question": "How does an altimeter measure altitude?",
+    "questionId": 1107,
+    "type": "ALL"
+  },
+  {
+    "answer": "Pilot certificate, photo ID, current medical 3rd class or better, log book with current solo endorsements.\n\n(14 CFR 61.3 a and 14 CFR 61.51 (1))",
+    "certificate": "PRIVATE",
+    "createdDate": 1646954454844,
+    "imageFile": null,
+    "question": "What are the required personal documents and certificates one must have in their possession to fly as a solo student pilot?",
+    "questionId": 1108,
+    "type": "ALL"
+  },
+  {
+    "answer": "All Aircraft must have an annual inspection, defined by 14 CFR part 43, appendix D. Additionally, Aircraft which are available for rent or held out to the public for other commercial operations must have a 100 hour inspection, in addition to an annual inspection.\n\nClub planes do not have to have 100 hour inspections because WCFC aircraft are not rented to the general public. This is a private club with the aircraft only available to club membership. Commercial operations in club aircraft are not permitted.",
+    "certificate": "PRIVATE",
+    "createdDate": 1648212539174,
+    "imageFile": null,
+    "question": "What is the difference in 100hr vs annual, do club planes have to have both? Why not?",
+    "questionId": 1109,
+    "type": "ALL"
+  },
+  {
+    "answer": "REILs are Runway End Identifier Lights, which expresses their purpose.  They are flashing, synchronized lights located laterally on each side of the runway threshold to aid visual acquisition of the approach end of a given runway.\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519749228,
+    "imageFile": null,
+    "question": "REILs are a type of runway lighting.  Where are they located and what is their purpose?\n",
+    "questionId": 1110,
+    "type": "ALL"
+  },
+  {
+    "answer": "The private pilot must hold, at minimum, a current FAA Third Class medical certificate or must have met the requirements for \"BasicMed\" medical certificate relief described by FAA Advisory Circular 68-1A.\n\n(14 CFR §61.23)",
+    "certificate": "PRIVATE",
+    "createdDate": 1583934501004,
+    "imageFile": null,
+    "question": "What are the minimum medical certificate requirements for the private pilot?",
+    "questionId": 1111,
+    "type": "ALL"
+  },
+  {
+    "answer": "At the surface, winds flow perpendicular to isobars, in the direction of lower barometric pressure, because of surface friction.  \nAloft, winds flow more or less parallel to the isobars.\n\n(Pilot’s Handbook of Aeronautical Knowledge 12-12)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788729707,
+    "imageFile": null,
+    "question": "How do surface winds flow in relationship to isobars? Why? Winds aloft?",
+    "questionId": 1112,
+    "type": "ALL"
+  },
+  {
+    "answer": "Four separate operations occur in the cycle of generating power in each cylinder of the engine:\n\n- Intake stroke- fuel/air mixture enters the cylinder\n- Compression stroke- fuel/ mixture is compressed in the cylinder\n- Combustion stroke- fuel/air mixture is ignited in the cylinder\n- Exhaust stroke- spent gases are exhausted from the cylinder\n\n(Pilot's Handbook of Aeronautical Knowledge 7-3)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577923244315,
+    "imageFile": null,
+    "question": "What is meant by 'four-stroke' in the context of an internal combustion engine?",
+    "questionId": 1113,
+    "type": "ALL"
+  },
+  {
+    "answer": "An up-sloping runway or surrounding terrain can create the illusion that the aircraft is at a higher altitude than it actually is. The pilot who does not recognize this illusion will fly a lower approach.\n\n(PHAK p.17-10)",
+    "certificate": "PRIVATE",
+    "createdDate": 1675709918464,
+    "imageFile": null,
+    "question": "What illusion might impact a pilot landing on an up-sloping runway or with up-sloping terrain? ",
+    "questionId": 1114,
+    "type": "ALL"
+  },
+  {
+    "answer": "Oil cleans, cools and lubricates the engine.",
+    "certificate": "PRIVATE",
+    "createdDate": 1577923244328,
+    "imageFile": null,
+    "question": "Why does the engine need oil?",
+    "questionId": 1115,
+    "type": "ALL"
+  },
+  {
+    "answer": " 3 statute miles visibility, cloud clearance 500 ft below, 1000 ft above, 2000 ft horizontally.\n\n( 14 CFR 91.155(a) (c) and (d) )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646954674528,
+    "imageFile": null,
+    "question": "What are the Class C airspace basic visual flight rules (VFR)/weather minimums? (According to the FARs)",
+    "questionId": 1116,
+    "type": "ALL"
+  },
+  {
+    "answer": "Yes.  But an exception may be made if the PIC believes that the anticollision lights might compromise safety, usually be blinding the pilot(s) of another aircraft, often in ground operations.  (Turn them off on the ramp, particular if other aircraft are moving about.)  (14 CFR 91.209)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519770772,
+    "imageFile": null,
+    "question": "Must aircraft anticollision lights be on during night flight operations?\n",
+    "questionId": 1117,
+    "type": "ALL"
+  },
+  {
+    "answer": "Class G is the only uncontrolled airspace. ATC has no authority in Class G airspace but pilots must still maintain pertinent VFR standards.",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788728974,
+    "imageFile": null,
+    "question": "What is the difference between controlled and uncontrolled airspace?",
+    "questionId": 1118,
+    "type": "ALL"
+  },
+  {
+    "answer": "TEMPO means that the following changes in the weather are expected for more than half of the referenced time period from 1300 to 1600 Z.",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519180762,
+    "imageFile": null,
+    "question": "What is the meaning of TEMPO in this segment of a TAF?\n\u003cp\u003e\nTEMPO 1113/1116 1SM TSRA BR BKN004 OVC015CB",
+    "questionId": 1119,
+    "type": "ALL"
+  },
+  {
+    "answer": "When inspecting the engine on a pre-flight inspection, finding a broken \"P-lead\" wire would  indicate that the magneto could not be grounded, leading to a \"hot\" magneto (i.e. one that would keep the airplane running with the ignition switch turned off or, present the possibility of the engine accidentally starting with the ignition switch turned off).\n\nWhile the engine is running, the failure of the ignition switch to shut the engine down could mean that one or both P-lead(s) are not grounded. Finally, during the run-up if there is no drop in RPM when switching magnetos it is likely that you have “hot mags”.",
+    "certificate": "PRIVATE",
+    "createdDate": 1583947738496,
+    "imageFile": null,
+    "question": "How could you tell if a magneto was not grounded?",
+    "questionId": 1120,
+    "type": "ALL"
+  },
+  {
+    "answer": "A Convective SIGMETis an inflight weather advisory issued for hazardous convective weather that affects the safety of every flight. Convective SIGMETs are issued for severe thunderstorms with surface winds greater than 50 knots, hail at the surface greater than or equal to \u0026frac34; inch in diameter, or tornadoes. They are also issued to advise pilots of embedded thunderstorms, lines of thunderstorms, or thunderstorms with heavy or greater precipitation that affect 40 percent or more of a 3,000 square mile or greater region.\n\nConvective SIGMETs are issued for each area of the contiguous 48 states but not Alaska or Hawaii. Convective SIGMETs are issued for the eastern (E), western (W), and central (C) United States. Each report is issued at 55 minutes past the hour, but special Convective SIGMETs can be issued during the interim for any reason. Each forecast is valid for 2 hours. They are numbered sequentially each day from 1–99, beginning at 00Z time. If no hazardous weather exists, the convective SIGMET is still issued; however, it states “CONVECTIVE SIGMET…NONE.”\n\n(Pilot's Handbook of Aeronautical Knowledge 13-12)",
+    "certificate": "PRIVATE",
+    "createdDate": 1586699015906,
+    "imageFile": null,
+    "question": "What conditions do a Convective SIGMET warn of?",
+    "questionId": 1121,
+    "type": "ALL"
+  },
+  {
+    "answer": "Isobars outline areas of equal barometric pressure. Closely spaced isobars mean that there is a steep pressure gradient and winds will be strong.\n\n(Pilot’s Handbook of Aeronautical Knowledge 12-12)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788729582,
+    "imageFile": null,
+    "question": "Discuss isobars. What does it mean when the isobars are close together?",
+    "questionId": 1122,
+    "type": "ALL"
+  },
+  {
+    "answer": "Private pilot (or other, more advanced) certificate, current 3rd class (or better) medical certificate and appropriate government issued photo ID.  \n(14 CFR \u0026sect;61.3(a))",
+    "certificate": "PRIVATE",
+    "createdDate": 1577824244781,
+    "imageFile": null,
+    "question": "What documents must you have in your physical possession or readily accessible in the aircraft in order to exercise private pilot privileges while flying in the U.S.?",
+    "questionId": 1123,
+    "type": "ALL"
+  },
+  {
+    "answer": "The time between the end of evening civil twilight and the beginning of morning civil twilight defines the times when night flights may be logged. Night landings for the purpose of showing recent experience for carrying passengers at night can be logged 1 hour after sunset to 1 hour before sunrise.\n\n(14 CFR §1 and §61.57)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577824646404,
+    "imageFile": null,
+    "question": "How does the FAA define nighttime for logging night flight? During what times of day must you perform night landings to be current to carry passengers at night?",
+    "questionId": 1124,
+    "type": "ALL"
+  },
+  {
+    "answer": "Sunrise and Sunset refer to the times when the upper edge of the\ndisk of the sun is on the horizon, considered unobstructed relative to the\nlocation of interest.\n\n(Aeronautical Information Manual 10-2-2(1)(c))",
+    "certificate": "PRIVATE",
+    "createdDate": 1582557245459,
+    "imageFile": null,
+    "question": "What is the definition of Sunrise/Sunset?",
+    "questionId": 1125,
+    "type": "ALL"
+  },
+  {
+    "answer": "This line on the surface analysis chart represents a low pressure trough.",
+    "certificate": "PRIVATE",
+    "createdDate": 1586707001186,
+    "imageFile": "cb554c61-1925-4b29-a126-92e33257a754.png",
+    "question": "What does the dashed orange line depicted on the surface analysis chart represent?",
+    "questionId": 1126,
+    "type": "ALL"
+  },
+  {
+    "answer": "PARE stands for : \n\n* Power to idle;\n* Ailerons to neutral;\n* Rudder full opposite;\n* Elevator pitch down;\n\n.... and then neutralize main controls.",
+    "certificate": "PRIVATE",
+    "createdDate": 1630583109507,
+    "imageFile": null,
+    "question": "Describe the steps of the \"PARE\" spin recovery technique.",
+    "questionId": 1127,
+    "type": "ALL"
+  },
+  {
+    "answer": "- Category: Airplane, Rotorcraft, Glider, Lighter-Than-Air etc.\n- Class: Single Engine Land/Sea, Multi Engine Land/Sea\n- Type: Rating specific to aircraft, such as large aircraft, turbo-jet powered or others as required by the FAA administrator\n\n(14 CFR §61.5)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577825229478,
+    "imageFile": null,
+    "question": "With respect to the certification, privileges and limitations of airmen: What do the terms \"category\", \"class\" and \"type\" mean?",
+    "questionId": 1128,
+    "type": "ALL"
+  },
+  {
+    "answer": "It provides higher density air in the cylinders. It is particularly helpful as you gain altitude and the air becomes less dense. The turbocharger will bring the density of that air up to keep the engine making good (potentially sea-level) power.",
+    "certificate": "COMMERCIAL",
+    "createdDate": 1681076336835,
+    "imageFile": null,
+    "question": "What benefit does turbocharging of an engine provide?",
+    "questionId": 1129,
+    "type": "ALL"
+  },
+  {
+    "answer": "No. The FAA defines a high-performance aircraft as  an airplane with an engine capable of developing more than 200 horsepower. In this case the aircraft has no engine capable of more then 200 horsepower.\n\n(Airplane Flying Handbook, 11-1, 14 CFR \u0026sect;61.31(f)(1) )",
+    "certificate": "PRIVATE",
+    "createdDate": 1648039726675,
+    "imageFile": null,
+    "question": "Is a twin engine plane with two 200hp engines considered by the FAA to be a high performance aircraft?",
+    "questionId": 1130,
+    "type": "ALL"
+  },
+  {
+    "answer": "Cloud ceilings in a TAF are reported in feet above ground level (AGL).\n\n(FAA AC 0045H 5.11.2.9.2, Aeronautical Information Manual 7-1-30)\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1579383636225,
+    "imageFile": null,
+    "question": "Does a TAF report cloud ceilings in MSL or AGL?",
+    "questionId": 1131,
+    "type": "ALL"
+  },
+  {
+    "answer": "The red symbol (or line of red symbols) on the surface analysis chart indicates a warm front.",
+    "certificate": "PRIVATE",
+    "createdDate": 1586706705474,
+    "imageFile": "cef63513-fc0c-4691-bf45-2e5ca080d1df.png",
+    "question": "What does the red symbol depicted on the surface analysis chart represent?",
+    "questionId": 1132,
+    "type": "ALL"
+  },
+  {
+    "answer": "Magnetic deviation is an error in the compass indication caused by metals or electric fields within the cockpit which interfere with the compass. A magnetic compass correction card accounting for magnetic deviation must be displayed in aircraft near the compass as an airworthiness requirement of 14 CFR §23.1547.\n\n(Pilot’s Handbook of Aeronautical Knowledge 16-7)",
+    "certificate": "PRIVATE",
+    "createdDate": 1581609183676,
+    "imageFile": null,
+    "question": "What is magnetic deviation?",
+    "questionId": 1133,
+    "type": "ALL"
+  },
+  {
+    "answer": "Yes, you are, up to 10,000 feet. You are required to have ADS-B Out as well as in the following situations :\n\n* Class A, B, and C airspace;\n* Class E airspace at or above 10,000 feet msl, excluding airspace at and below 2,500 feet agl;\n* Within 30 nautical miles of a Class B primary airport (the Mode C veil);\n* Above the ceiling and within the lateral boundaries of Class B or Class C airspace up to 10,000 feet;\n* Class E airspace over the Gulf of Mexico, at and above 3,000 feet msl, within 12 nm of the U.S. coast.",
+    "certificate": "PRIVATE",
+    "createdDate": 1681075940468,
+    "imageFile": null,
+    "question": "Are you required to have ADS-B Out above Class C airspace?",
+    "questionId": 1134,
+    "type": "ALL"
+  },
+  {
+    "answer": "Unless each occupant of the aircraft is wearing an approved parachute, no pilot of a civil aircraft carrying any person (other than a crewmember) may execute any intentional maneuver that exceeds - (1) A bank of 60 degrees relative to the horizon; or (2) A nose-up or nose-down attitude of 30 degrees relative to the horizon. (d) Paragraph (c) of this section does not apply to - (1) Flight tests for pilot certification or rating; or (2) Spins and other flight maneuvers required by the regulations for any certificate or rating when given by - (i) A certificated flight instructor; or (ii) An airline transport pilot instructing in accordance with § 61.67 of this chapter. (CFR 91.307)",
+    "certificate": "PRIVATE",
+    "createdDate": 1644123372458,
+    "imageFile": null,
+    "question": "When must every occupant of an aircraft be wearing an approved parachute?",
+    "questionId": 1135,
+    "type": "ALL"
+  },
+  {
+    "answer": "It stands for \"common traffic advisory frequency\", and can be a frequency for UNICOM, MULTICOM, FSS, or TOWER, depending upon the specific situation at a given airport.\n\n(Pilot's Handbook of Aeronautical Knowledge p.14-2)",
+    "certificate": "PRIVATE",
+    "createdDate": 1631619063431,
+    "imageFile": null,
+    "question": "What does the term CTAF mean?",
+    "questionId": 1136,
+    "type": "ALL"
+  },
+  {
+    "answer": "PROB30 means that there is a 30% chance of the following weather during the time period between 0100Z and 0400 Zulu on the 12th of the month.",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519199116,
+    "imageFile": null,
+    "question": "What is the meaning of \"PROB\" in the following segment of a TAF?\n\u003cp\u003e\nPROB30 1201/1204 2SM SHRA OVC003",
+    "questionId": 1137,
+    "type": "ALL"
+  },
+  {
+    "answer": "**FLAPS**\n\n- F – Set of spare fuses (if the aircraft uses fuses)\n- L – Landing Light\n- A – Anti-Collision Lights (e.g. beacon or strobe)\n- P – Position Lights\n- S – Source of Power\n\n(14 CFR §91.205(c))",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921927985,
+    "imageFile": null,
+    "question": "What additional items (beyond A TOMATO FLAMES) do you need for night flight?",
+    "questionId": 1138,
+    "type": "ALL"
+  },
+  {
+    "answer": "**UA** or **UUA**: used to identify the PIREP as routine (U) or urgent (UUA)\u003cbr\u003e\n**/OV**: location of the PIREP, in relation to a NAVAID, an aerodrome or geographical coordinates\u003cbr\u003e\n**/TM**: time the PIREP was received from the pilot (UTC)\u003cbr\u003e\n**/FL**: flight level or altitude above sea level at the time the PIREP is filed; it is essential for turbulence and icing reports\u003cbr\u003e\n**/TP**: aircraft type; it is essential for turbulence and icing reports\u003cbr\u003e\n**/SK**: sky cover\u003cbr\u003e\n**/TA**: ambient temperature; important for icing reports\u003cbr\u003e\n**/WV**: wind vector referenced in terms of true north (ICAO), or magnetic north (in the United States)\u003cbr\u003e\n**/TB**: turbulence; intensity, whether it occurred in or near clouds, and duration\u003cbr\u003e\n**/IC**: icing\u003cbr\u003e\n**/RM**: remarks\u003cbr\u003e\n**/WX**: flight visibility and weather",
+    "certificate": "PRIVATE",
+    "createdDate": 1586699592656,
+    "imageFile": null,
+    "question": "What do the following fields in a Pilot Report (PIREP) indicate?\n",
+    "questionId": 1139,
+    "type": "ALL"
+  },
+  {
+    "answer": "The area is a Special Conservation Area where pilots are requested (but not required) to avoid flight below 2,000 feet AGL.\n\n(Aeronautical Information Manual 7-4-6)",
+    "certificate": "PRIVATE",
+    "createdDate": 1584128880234,
+    "imageFile": "33795cc9-c76c-40fb-9fe6-295731e00ac7.png",
+    "question": "What considerations in flight planning should a pilot make in consideration of the area delineated by the blue-dotted line?",
+    "questionId": 1140,
+    "type": "ALL"
+  },
+  {
+    "answer": "- Unstable atmosphere\n- Substantial moisture\n- Lifting action\n\n(Pilot’s Handbook of Aeronautical Knowledge 12-23)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578931169491,
+    "imageFile": null,
+    "question": "What atmospheric conditions must be exist in order for a thunderstorm to form?",
+    "questionId": 1141,
+    "type": "ALL"
+  },
+  {
+    "answer": "One must be at least 17 years of age to qualify for a Private Pilot Certificate.  (One may solo at 16.)\n14 CFR 61.103\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519097398,
+    "imageFile": null,
+    "question": "How old must one be to be eligible for a Private Pilot Certificate?\n",
+    "questionId": 1142,
+    "type": "ALL"
+  },
+  {
+    "answer": "A flight review consists of a minimum of 1 hour of flight training and 1 hour of ground training and must include: A review of the current general operating and flight rules of 14 CFR Part 91.\n(14 CFR \u0026sect;61.3(a))",
+    "certificate": "PRIVATE",
+    "createdDate": 1736452727393,
+    "imageFile": null,
+    "question": "What are the minimum number of hours required by the FAA for the mandatory periodic (every two years) flight review?",
+    "questionId": 1143,
+    "type": "ALL"
+  },
+  {
+    "answer": "Military aircraft flying along Military Training Routes (MTR) are not subject to the 250 knot speed limit under 10,000 feet. Thus it is possible to encounter extremely fast moving aircraft along those routes.\n\n(Pilot’s Handbook of Aeronautical Knowledge 15-6)",
+    "certificate": "PRIVATE",
+    "createdDate": 1581608357484,
+    "imageFile": null,
+    "question": "What is an increased risk general aviation pilots have when flying in airspace defined as a military training route?",
+    "questionId": 1144,
+    "type": "ALL"
+  },
+  {
+    "answer": "Oil is also used to help remove heat from the engine and move metal particles and debris into the oil filter. A lack of oil in an engine will cause the engine to  rapidly overheat.\n\n(Pilot’s Handbook of Aeronautical Knowledge 7-16)",
+    "certificate": "PRIVATE",
+    "createdDate": 1581609234967,
+    "imageFile": null,
+    "question": "Aside from lubrication, what other roles does oil play in the operation of an aircraft engine?",
+    "questionId": 1145,
+    "type": "ALL"
+  },
+  {
+    "answer": "Continue cranking with the intention that the fuel/flame will get pulled into the engine.  If the engine starts, run at 1700rpm for 2-3 minutes then shut down.  If it doesn’t start, shut off all fuel sources and get out of the airplane! In either case inform the maintenance staff of the incident.",
+    "certificate": "PRIVATE",
+    "createdDate": 1581610043951,
+    "imageFile": null,
+    "question": "What should you do if you have a fire when starting the airplane?",
+    "questionId": 1146,
+    "type": "ALL"
+  },
+  {
+    "answer": "The two instruments that are normally connected to (driven by) the vacuum system are the attitude indicator and heading indicator. However, many aircraft are transitioning to all electronic flight instrumentation and in those aircraft there may be no vacuum system.\n\n(Pilot's Handbook of Aeronautical Knowledge p.8-16)",
+    "certificate": "PRIVATE",
+    "createdDate": 1631618858255,
+    "imageFile": null,
+    "question": "What flight instruments are normally connected to the vacuum system?",
+    "questionId": 1147,
+    "type": "ALL"
+  },
+  {
+    "answer": "No. A non-instrument rated pilot can request a SVFR clearance during the daytime, but at night the pilot is required to be instrument rated, and the aircraft must be equipped for instrument flight.",
+    "certificate": "PRIVATE",
+    "createdDate": 1584384225205,
+    "imageFile": null,
+    "question": "Can a non-instrument rated pilot request a SVFR clearance to land at an airport after sunset?",
+    "questionId": 1148,
+    "type": "ALL"
+  },
+  {
+    "answer": "Treatment for hypoxia includes flying at lower altitudes and/ or using supplemental oxygen. \n\n( Pilot’s Handbook of Aeronautical Knowledge, p17-4 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1648213015302,
+    "imageFile": null,
+    "question": "Hypoxia, what do you do if someone is experiencing it?",
+    "questionId": 1149,
+    "type": "ALL"
+  },
+  {
+    "answer": "\u003cul\u003e\u003cli\u003eAdvection fog: moist warm air moves over colder land or water\u003cli\u003eRadiation fog: forms on clear nights with little or no wind and only over land\u003cli\u003eUpslope: moist unstable air is cooled as wind pushes it up a slope\u003cli\u003ePrecipitation Induced fog: warm rain falls through cool air. Evaporation from the rain saturates the cool air and fog forms\u003cli\u003eSteam fog: forms when cold, dry air moves over warm water\u003cli\u003eIce fog:  Occurs in very cold air when ice crystals form directly from moisture in the air\u003c/ul\u003e\n\n(Pilot’s Handbook of Aeronautical Knowledge 12-15)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578931170006,
+    "imageFile": null,
+    "question": "Discuss the types of fog. Advection, Radiation, Upslope, Precipitation-Induced",
+    "questionId": 1150,
+    "type": "ALL"
+  },
+  {
+    "answer": "These are separate notes, enclosed in magenta boxes, which give the approach control frequencies to be used by arriving VFR aircraft to establish two-way radio communication before entering the Class C (generally within 20 NM).\n\n(FAA Aeronautical Chart User's Guide)",
+    "certificate": "PRIVATE",
+    "createdDate": 1582658667680,
+    "imageFile": "97bcc5ca-df60-48cf-8713-b5fe8c5311e2.png",
+    "question": "What does the box with the magenta border near a Class C airport communicate to the pilot?",
+    "questionId": 1151,
+    "type": "ALL"
+  },
+  {
+    "answer": "Air enters the intake manifold at ambient pressure, without forced induction (i.e. there is no turbocharger or supercharger compressing air)\n\n(Pilot's Handbook of Aeronautical Knowledge 7-7)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577923244270,
+    "imageFile": null,
+    "question": "What does 'normally aspirated' mean when discussing a piston engine?",
+    "questionId": 1152,
+    "type": "ALL"
+  },
+  {
+    "answer": "Wind is from the south at 5 knots.",
+    "certificate": "PRIVATE",
+    "createdDate": 1586706534964,
+    "imageFile": "34cae93e-24d5-43e2-854e-9b402e992b8e.png",
+    "question": "What is the predicted windspeed and general direction over central North Carolina?",
+    "questionId": 1153,
+    "type": "ALL"
+  },
+  {
+    "answer": "\u003cstrong\u003eFROM\u003c/strong\u003e – Rapid change occurring within 1 hour\u003cbr\u003e\n\u003cstrong\u003eBECMG\u003c/strong\u003e – Gradual change to take place over the course of 1 hour\u003cbr\u003e\n\u003cstrong\u003eTEMPO\u003c/strong\u003e – Between the predicted period, this weather will only occur for less than an hour\u003cbr\u003e\n\u003cstrong\u003ePROB\u003c/strong\u003e – number placed afterwards is the probability of the weather forecasted to occur\n\n\n(Aeronautical Information Manual 7-1-30)",
+    "certificate": "PRIVATE",
+    "createdDate": 1579383715088,
+    "imageFile": null,
+    "question": "Describe FROM, BECMG, TEMPO, PROB, on a TAF.\n",
+    "questionId": 1154,
+    "type": "ALL"
+  },
+  {
+    "answer": "\u003cul\u003e\n\u003cli\u003eAt or above 10,000' MSL over the 48 contiguous states or the District of Columbia, excluding that airspace above 10,000' MSL but below 2,500 AGL\n\u003cli\u003eWithin 30 miles of a Class B airspace primary airport (mode C veil), below 10,000' MSL. Balloons, gliders, and aircraft not equipped with an engine driven electrical system are excepted from the above requirements when operating below the floor of Class A airspace and/or outside of a Class B airspace and below the ceiling of the Class B airspace (or 10,000' MSL, whichever is lower)\n\u003cli\u003eWithin and above all Class C airspace, up to 10,000 feet MSL\n\u003cli\u003eWithin 10 miles of certain designated airports, excluding that airspace which is both outside the Class D surface area and below 1,200 feet AGL. Balloons, gliders and aircraft not equipped with an engine driven electrical system are excepted from this requirement\n\u003c/ul\u003e\n(14 CFR \u0026sect;91.215)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788869088,
+    "imageFile": null,
+    "question": "When do we need an activated Mode C transponder?",
+    "questionId": 1155,
+    "type": "ALL"
+  },
+  {
+    "answer": "They certainly are *not* called a map. They are *charts*, and some examiners will ding you significantly if you slip up and call them a (ugh) map. You think I'm kidding, but I'm not!",
+    "certificate": "PRIVATE",
+    "createdDate": 1606337212486,
+    "imageFile": null,
+    "question": "What is the proper name for the depictions of the cartographic presentations of terrain, aeronautical information, and landmarks one uses for navigation in aviation?",
+    "questionId": 1156,
+    "type": "ALL"
+  },
+  {
+    "answer": "- Standard\n- Abbreviated\n- Outlook\n\n(Aeronautical Information Manual 7-1-4)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578931170140,
+    "imageFile": null,
+    "question": "What types of weather briefings can you get from a Flight Service Station briefer?",
+    "questionId": 1157,
+    "type": "ALL"
+  },
+  {
+    "answer": "This indicates the airport is an \"ultralight flight park\". ",
+    "certificate": "PRIVATE",
+    "createdDate": 1582666601546,
+    "imageFile": "c83c8509-516f-4f33-a26d-06ed8d45950d.png",
+    "question": "What does the magenta circle with the \"F\" inside it indicate?",
+    "questionId": 1158,
+    "type": "ALL"
+  },
+  {
+    "answer": "Clear - \u003c 1/8 sky cover: \"SKC, CLR, FEW\"\u003cb\u003e\nFew- 1/8- 2/8 sky cover: \"FEW\"\u003cbr\u003e\nScattered- 3/8-4/8 sky cover: \"SCT\"\u003cbr\u003e\nBroken- 5/8-7/8 sky cover: \"BKN\"\u003cbr\u003e\nOvercast- 8/8 sky cover: \"OVC\"\n\n(Pilot's Handbook of Aeronautical Knowledge 13-7)",
+    "certificate": "PRIVATE",
+    "createdDate": 1583927958167,
+    "imageFile": null,
+    "question": "What are the categories of Sky Condition used in reporting METAR and TAF?",
+    "questionId": 1159,
+    "type": "ALL"
+  },
+  {
+    "answer": "Altitude and time of day.\n\n( 14 CFR 91.155 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646954872913,
+    "imageFile": null,
+    "question": "In Class G airspace, what are the two key factors used to determine legal flight visibility and cloud clearance requirements?",
+    "questionId": 1160,
+    "type": "ALL"
+  },
+  {
+    "answer": "* 24 calendar months for operations requiring a third class medical certificate, if the airman is age 40 or over on or before the date of the examination, or\n* 60 calendar months for operations requiring a third class medical certificate _if the airman has not reached age 40 on or before the date of examination._\n\nhttps://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/ame/guide/app_process/general/validity/",
+    "certificate": "PRIVATE",
+    "createdDate": 1675706934546,
+    "imageFile": null,
+    "question": "When does a 3rd class medical expire?",
+    "questionId": 1161,
+    "type": "ALL"
+  },
+  {
+    "answer": "This TAF was issued at 0528Z on the 11th of the month.  It is valid from 0600Z on the 11th until 0600Z on the 12th of the month.  (24 hours)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519220769,
+    "imageFile": null,
+    "question": "When was the following TAF issued and for what period is it valid?\n\u003cp\u003e\nKRDU 110528Z 1106/1206 09007KT 3SM -RA BR OVC006 WS015/15040KT",
+    "questionId": 1162,
+    "type": "ALL"
+  },
+  {
+    "answer": "Aircraft navigation lights are required between sunset and sunrise.  \n\nDuring the period between sunset and sunrise no person may :\n\n1. operate an aircraft unless it has lighted position lights,\n2. park or move an aircraft in an area of an airport where night operations are being conducted unless it is clearly illuminated, has position lights, or is in an area marked by obstruction lights.\n\n(14 CFR §91.209) ",
+    "certificate": "PRIVATE",
+    "createdDate": 1581608954045,
+    "imageFile": null,
+    "question": "During what times of day must aircraft navigation (position) lights be on?",
+    "questionId": 1163,
+    "type": "ALL"
+  },
+  {
+    "answer": "Yes, but only if (a) the pilot had reason to make the flight anyway and (b) all participants in the flight pay their pro rata share of the flight expenses. It is not legitimate to \"advertise\" to fly people to destinations of their choice. That would constitute \"holding out\" to the public, and is disallowed by the FAA.\n\nMore details can be found in \n\u003ca href=\"https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-142.pdf\"\u003eAC 61-142\u003c/a\u003e.",
+    "certificate": "PRIVATE",
+    "createdDate": 1584383602580,
+    "imageFile": null,
+    "question": "If you take friends up for a flight and you're a private pilot, can they pay for the flight?",
+    "questionId": 1164,
+    "type": "ALL"
+  },
+  {
+    "answer": "A deficiency of oxygen sufficient to cause a impaired brain function and other adverse effects on the body.  (AIM 9-1-2)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519796082,
+    "imageFile": null,
+    "question": "What is hypoxia?\n",
+    "questionId": 1165,
+    "type": "ALL"
+  },
+  {
+    "answer": "This indicates a closed airport. Closed airports are shown on the chart because from the air they are often still visible and identifiable as airports. The pilot needs to be informed that the airport is closed and is no longer usable.\n\n(FAA Aeronautical Chart User's Guide)",
+    "certificate": "PRIVATE",
+    "createdDate": 1582656046384,
+    "imageFile": "7ce0558a-aaf8-4ac0-910b-12d8dbe71147.png",
+    "question": "What does the magenta circle with the \"X\" over it (denoted by the red arrow) indicate?",
+    "questionId": 1166,
+    "type": "ALL"
+  },
+  {
+    "answer": "\u003cul\u003e\u003cli\u003eUnder age 40: 60 calendar months.\u003cli\u003eOver age 40: 24 calendar months\u003c/ul\u003e\n\n(14 CFR \u0026sect;61.23)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577825091277,
+    "imageFile": null,
+    "question": "For how long is a third class medical certificate valid?",
+    "questionId": 1167,
+    "type": "ALL"
+  },
+  {
+    "answer": "Standard pressure is 29.92 inches of mercury.",
+    "certificate": "PRIVATE",
+    "createdDate": 1675710313197,
+    "imageFile": null,
+    "question": "What is \"standard pressure\"?",
+    "questionId": 1168,
+    "type": "ALL"
+  },
+  {
+    "answer": "Curvature of the wing – it can be changed by extending/retracting flaps",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928105,
+    "imageFile": null,
+    "question": "What is wing camber? Can we change it?",
+    "questionId": 1169,
+    "type": "ALL"
+  },
+  {
+    "answer": "Advection fog and upslope fog\n\n(Pilot's Handbook of Aeronautical Knowledge, Chapter 12-15 Weather Theory)",
+    "certificate": "PRIVATE",
+    "createdDate": 1625170451471,
+    "imageFile": null,
+    "question": "What two types of fog depend on wind to develop?",
+    "questionId": 1170,
+    "type": "ALL"
+  },
+  {
+    "answer": "It stands for *Land and Hold Short*. These operations include landing\nand holding short of an intersecting runway, an\nintersecting taxiway, or some other designated point\non a runway other than an intersecting runway or\ntaxiway. \n\n(AIM 3-29-18, section 4-3-1)",
+    "certificate": "PRIVATE",
+    "createdDate": 1630582888722,
+    "imageFile": null,
+    "question": "What does the term \"LAHSO\" mean?",
+    "questionId": 1171,
+    "type": "ALL"
+  },
+  {
+    "answer": "Standard temperature is 15\u0026#8451;.",
+    "certificate": "PRIVATE",
+    "createdDate": 1675710368451,
+    "imageFile": null,
+    "question": "What is \"standard temperature\"?",
+    "questionId": 1172,
+    "type": "ALL"
+  },
+  {
+    "answer": "You need to log at least 3 night takeoffs and landings to a full stop within the preceding 90 days. And, you need to log the landings between 1 hour after sunset and 1 hour before sunrise.\n\n(14 CFR 61.57(b))",
+    "certificate": "PRIVATE",
+    "createdDate": 1584383703984,
+    "imageFile": null,
+    "question": "What are the night currency requirements to carry passengers at night?",
+    "questionId": 1173,
+    "type": "ALL"
+  },
+  {
+    "answer": "1. Cumulus\n2. Mature\n3. Dissipating\n\n(Pilot’s Handbook of Aeronautical Knowledge 12-22)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578931169660,
+    "imageFile": null,
+    "question": "What are the stages of a thunderstorm?",
+    "questionId": 1174,
+    "type": "ALL"
+  },
+  {
+    "answer": "Low – Cyclone – counterclockwise (in the northern hemisphere) and rising air currents\nHigh – Anticyclone – (in the northern hemisphere) and descending air currents\n\n(Pilot’s Handbook of Aeronautical Knowledge 12-7)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788729917,
+    "imageFile": null,
+    "question": "What are the general characteristics of air mass movements low/high pressure areas?",
+    "questionId": 1175,
+    "type": "ALL"
+  },
+  {
+    "answer": "\"T01940189\" is the temperature and dewpoint refined to a tenth of a degree Celsius, ie., 19.4 temperature and 18.9 dewpoint.  When the temperature and dewpoint are very close together, this breaks down the difference more precisely.  Note that in this case, both are rounded to 19/19 in the traditional temperature / dewpoint code.\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519453730,
+    "imageFile": null,
+    "question": "What does \"T01940189\" mean in the following METAR?\n\u003cp\u003e\nKRDU 110651Z 09008KT 1/2SM -RA BR OVC004 19/19 A2997 RMK AO2 SFC VIS 2 SLP144 P0000 T01940189 $",
+    "questionId": 1176,
+    "type": "ALL"
+  },
+  {
+    "answer": "Your aircraft tail number, your aircraft type (e.g. C152), your position, your destination, your intended cruising altitude.\n\nDuring this process, ATC may provide you with a discrete squawk code, the altimeter setting at the nearest airport (to which you should adjust your altimeter), and may ask you to verify your current altitude and location at which they see you on radar.\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1584031681017,
+    "imageFile": null,
+    "question": "What information will you need to provide ATC when requesting VFR flight following (VFR traffic advisories)?",
+    "questionId": 1177,
+    "type": "ALL"
+  },
+  {
+    "answer": "The pilot in command.\n\n( 14 CFR 91.7 and 91.403 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646954973777,
+    "imageFile": null,
+    "question": "Who is responsible for determining if the aircraft is in condition for safe flight and that all of the required inspections and maintenance have been accomplished?",
+    "questionId": 1178,
+    "type": "ALL"
+  },
+  {
+    "answer": "30 July\n\n( 14 CFR 61.87(n) )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646954554353,
+    "imageFile": null,
+    "question": "When does a logbook endorsement dated May 1st authorizing student solo flight expire?",
+    "questionId": 1179,
+    "type": "ALL"
+  },
+  {
+    "answer": "- Lift\n- Weight\n- Thrust\n- Drag",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928042,
+    "imageFile": null,
+    "question": "What are the four forces of flight?",
+    "questionId": 1180,
+    "type": "ALL"
+  },
+  {
+    "answer": "The ASI is a sensitive, differential pressure gauge that measures and promptly indicates the difference between pitot (impact/dynamic pressure) and static pressure. These two pressures are equal when the aircraft is parked on the ground in calm air. When the aircraft moves through the air, the pressure on the pitot line becomes greater than the pressure in the static lines. This difference in pressure is registered by the airspeed pointer on the face of the instrument, which is calibrated in miles per hour, knots (nautical miles per hour), or both.\n\n(PHAK, FAA-H-8083-25B, pages 8-8,12, Figure 8-7)",
+    "certificate": "PRIVATE",
+    "createdDate": 1650978287129,
+    "imageFile": null,
+    "question": "How does the airspeed indicator measure airspeed?",
+    "questionId": 1181,
+    "type": "ALL"
+  },
+  {
+    "answer": "Air density decreases as altitude increases resulting in an excessively rich mixture if the engine is not leaned.\n\n(Pilot's Handbook of Aeronautical Knowledge 7-9)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577923244355,
+    "imageFile": null,
+    "question": "Why do you need to adjust the mixture as you climb or descend?",
+    "questionId": 1182,
+    "type": "ALL"
+  },
+  {
+    "answer": "Lapse rates are the rate of change in temperature with altitude, which can either be positive or negative. ... It is important as a measure of atmospheric stabiity.\n\nReference:  Pilot's Handbook of Aeronautical Knowledge, Chapter 4, Principles of Flight",
+    "certificate": "PRIVATE",
+    "createdDate": 1625162531583,
+    "imageFile": null,
+    "question": "What is adiabatic lapse rate?",
+    "questionId": 1183,
+    "type": "ALL"
+  },
+  {
+    "answer": "After an accident a report to the NTSB must be made within 10 days of an accident.\n\n(NTSB Part 830)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519922368,
+    "imageFile": null,
+    "question": "How soon must a report to the NTSB be filed after an accident?\n",
+    "questionId": 1184,
+    "type": "ALL"
+  },
+  {
+    "answer": "The flight must be planned to land with 30 minutes of fuel remaining.\n\n(14 CFR \u0026sect;91.151)",
+    "certificate": "PRIVATE",
+    "createdDate": 1681060998791,
+    "imageFile": null,
+    "question": "On a VFR day, what’s your required fuel reserve?",
+    "questionId": 1185,
+    "type": "ALL"
+  },
+  {
+    "answer": "Significant Weather Information\n\nIssued for: Severe or extreme turbulence not associated with T-storms, severe icing, widespread dust storms or sandstorms which lower visibility to less than 3 miles or volcanic ash.\n\nSIGMETs are valid for 4 hours (except for hurricanes when they are issued for 6 hours).\n\n(https://www.aviationweather.gov/sigmet/help)",
+    "certificate": "PRIVATE",
+    "createdDate": 1579383802574,
+    "imageFile": null,
+    "question": "What is a SIGMET? Why is one issued? How long are they valid?",
+    "questionId": 1186,
+    "type": "ALL"
+  },
+  {
+    "answer": "10,000 ft MSL\n\n( 14 CFR 91.155 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646954837535,
+    "imageFile": null,
+    "question": "At what altitude do the Class E airspace visual flight rule (VFR) minimums increase?",
+    "questionId": 1187,
+    "type": "ALL"
+  },
+  {
+    "answer": "Airspeed Indicator",
+    "certificate": "PRIVATE",
+    "createdDate": 1583934825621,
+    "imageFile": null,
+    "question": "What aircraft instrument(s) is/are connected to the aircraft pitot tube?",
+    "questionId": 1188,
+    "type": "ALL"
+  },
+  {
+    "answer": "3 miles.\n\n( 14 CFR 91.155(c) and (d) )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646955195348,
+    "imageFile": null,
+    "question": "Except for helicopters, what is the minimum visibility for VFR flights operating inside controlled airspace below 10,000 feet?",
+    "questionId": 1189,
+    "type": "ALL"
+  },
+  {
+    "answer": "\nThe typical\nAFM/POH contains the following nine sections:\n\n1. General\n1. Limitations\n1. Emergency Procedures\n1. Normal Procedures\n1. Performance\n1. Weight and Balance/Equipment List\n1. Systems Description\n1. Handling, Service, and Maintenance\n1. Supplements\n\nManufacturers also have the option of including\nadditional sections, such as one on Safety and Operational\nTips or an alphabetical index at the end of the POH.\n\n(Pilot's Handbook of Aeronautical Knowledge 9-2)",
+    "certificate": "PRIVATE",
+    "createdDate": 1693842508534,
+    "imageFile": null,
+    "question": "Name the sections of the typical modern POH, in order.",
+    "questionId": 1190,
+    "type": "ALL"
+  },
+  {
+    "answer": "Only a student pilot on a solo cross-country flight needs to have their logbook with them on the flight. A certificated private pilot is not required to have their logbook with them on a flight.\n\n(14 CFR \u0026sect;61.51(i))",
+    "certificate": "PRIVATE",
+    "createdDate": 1577824244824,
+    "imageFile": null,
+    "question": "Do you need to take your logbook with you?",
+    "questionId": 1191,
+    "type": "ALL"
+  },
+  {
+    "answer": "A wider-than-usual runway can create an illusion that the aircraft is lower than it actually is, leading to a higher approach.\n\n(PHAK p.17-10)",
+    "certificate": "PRIVATE",
+    "createdDate": 1675710224963,
+    "imageFile": null,
+    "question": "What illusion might impact a pilot landing on a wider than familiar runway? ",
+    "questionId": 1192,
+    "type": "ALL"
+  },
+  {
+    "answer": "The flag indicates that the airport is a VFR checkpoint. When talking to ATC, they might\nask us to report when we’re over Asheboro, and the airport would be the reporting point.",
+    "certificate": "PRIVATE",
+    "createdDate": 1675707438112,
+    "imageFile": "17d04491-3436-4ec4-b2e0-faac60d0f6ff.png",
+    "question": "The airport depicted in the image has a flag. Why?",
+    "questionId": 1193,
+    "type": "ALL"
+  },
+  {
+    "answer": "The exhaust gasses drive a turbine that has a shaft running to a compressor for the\nintake air, which pressurizes it before it goes into the cylinder.",
+    "certificate": "COMMERCIAL",
+    "createdDate": 1681076225264,
+    "imageFile": null,
+    "question": "Give a brief description of how a turbocharger works.",
+    "questionId": 1194,
+    "type": "ALL"
+  },
+  {
+    "answer": "This is an instruction the tower will give you to taxi into position on the runway, but wait for further instruction before taking off. This operation is only appropriate at tower-controlled fields, and is not considered a safe operation at uncontrolled fields.\n\n(Aeronautical Information Manual 5-2-4) \n\u003ca href=\"https://www.faa.gov/air_traffic/publications/media/pcg_basic_chg_1_1-30-20.pdf\" target=\"_blank\u003e(FAA Pilot/Controller Glossary)\u003c/a\u003e\n\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1581610122686,
+    "imageFile": null,
+    "question": "What does “Line Up and Wait” mean? ",
+    "questionId": 1195,
+    "type": "ALL"
+  },
+  {
+    "answer": "Propellor-driven aircraft that have all of the following:\n\u003cli\u003eRetractable landing gear (land aircraft only; a seaplane is not required to have this)\n\u003cli\u003eA controllable-pitch propeller (which includes airplanes with constant-speed propellers and airplanes with FADEC which controls both the engine and propeller)\n\u003cli\u003eMovable or adjustable flaps.\n\n(Airplane Flying Handbook FAA-H-8083-3B)",
+    "certificate": "PRIVATE",
+    "createdDate": 1582556152190,
+    "imageFile": null,
+    "question": "What constitutes a complex aircraft?",
+    "questionId": 1196,
+    "type": "ALL"
+  },
+  {
+    "answer": "The light blue line depicts a low-level (1,200'AGL up to but not including 18,000'MSL) Victor Airway that is a straight line between two VORs or a VOR and VOR intersection.  The dark blue box indicates that the distance between the connected points of the airway is 103 nautical miles. Bonus: If the length of the airway is \u003c102 NM, the airway extends 4 NM to either side of its centerline (i.e. 8 NM wide). If the distance is \u003e102 NM, the area near the middle of the distance may be greater than 8 NM wide to account for radio signal inaccuracy that far away from the VOR.",
+    "certificate": "PRIVATE",
+    "createdDate": 1586706086795,
+    "imageFile": "759faae2-b053-46e3-ad1b-5fa3f4c7ea23.png",
+    "question": "What does the light blue line labeled \"V 454\" depict? What does the dark blue box surrounding \"103\" indicate?",
+    "questionId": 1197,
+    "type": "ALL"
+  },
+  {
+    "answer": "The line of blue and red symbol on the surface analysis chart indicates a stationary front.",
+    "certificate": "PRIVATE",
+    "createdDate": 1586706806671,
+    "imageFile": "14cf9fa9-aa53-454e-9f3c-ff1f313b5ce2.png",
+    "question": "What does the blue and red line symbol depicted on the surface analysis chart represent?",
+    "questionId": 1198,
+    "type": "ALL"
+  },
+  {
+    "answer": "Yes, the airworthiness certificate needs to be visible.\n\n( 14 CFR \u0026sect;91.203 (b) )",
+    "certificate": "PRIVATE",
+    "createdDate": 1675706640357,
+    "imageFile": null,
+    "question": "Do any of the documents needed to be legal for an aircraft to fly (i.e. ARROW) need to be visible?",
+    "questionId": 1199,
+    "type": "ALL"
+  },
+  {
+    "answer": "The term VASI stands for \"Visual Approach Slope Indicator\", and is a common approach light system. The VASI consists of light units arranged in bars. There are\n2-bar and 3-bar VASIs. The 2-bar VASI has near and far light\nbars and the 3-bar VASI has near, middle, and far light bars.\nTwo-bar VASI installations provide one visual glidepath\nthat is normally set at 3 degrees. The 3-bar system provides two\nglidepaths, the lower glidepath normally set at 3 degrees and the\nupper glidepath 1/4 degree above the lower glidepath.\n\nThe basic principle of the VASI is that of color differentiation\nbetween red and white. Each light unit projects a beam of\nlight, a white segment in the upper part of the beam and a\nred segment in the lower part of the beam.\n\nIf all the lights are white, the aircraft is well above glideslope. If one light (the rightmost) is red, with the rest white, the aircraft is slightly above glideslope. Two white and two red indicate the aircraft is on glideslope. If the number of red lights increases beyond the two rightmost, the aircraft is increasingly low on final.\n\n(PHAK FAA-H-8083-25B, page 14-16 and figure 14-30)",
+    "certificate": "PRIVATE",
+    "createdDate": 1630584162825,
+    "imageFile": null,
+    "question": "What is a VASI? Describe how it works.",
+    "questionId": 1200,
+    "type": "ALL"
+  },
+  {
+    "answer": "Steady green.\n\n( 14 CFR 91.125 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646954921697,
+    "imageFile": null,
+    "question": "What light gun signal is used to instruct an aircraft in flight that it is \"cleared to land\"?",
+    "questionId": 1201,
+    "type": "ALL"
+  },
+  {
+    "answer": "The Minimum Equipment List (MEL) is a document and method aircraft operators use to obtain\nrelief from Federal Aviation Regulations requiring that all equipment installed on the aircraft be\noperative at the time of flight. It is aircraft-specific and spells out which pieces of equipment\nmay be allowed to be inoperable along with any procedures that are required for an aircraft to\noperate under specific conditions while maintaining airworthiness. ",
+    "certificate": "PRIVATE",
+    "createdDate": 1636584902589,
+    "imageFile": null,
+    "question": "What is a Minimum Equipment List (MEL), and what benefit is it for an aircraft owner/operator?",
+    "questionId": 1202,
+    "type": "ALL"
+  },
+  {
+    "answer": "TRUE.  Our observer is seeing the left wing position light of the observed airplane.\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519512025,
+    "imageFile": null,
+    "question": "When observing another airplane in flight at night, a visible red position light indicates that the observed airplane is likely moving from the observers right to left.  TRUE or FALSE?\n",
+    "questionId": 1203,
+    "type": "ALL"
+  },
+  {
+    "answer": "The Center of Gravity is a point at which the aircraft would balance if it were suspended at that point. Gravity or weight acts through this point.\n\n**Aft CG** – higher cruise speed, lower stall speed, less stable, adverse stall recovery  \n**Forward CG** – lower cruise speed, higher stall speed, longer take off roll\n\n(Pilot's Handbook of Aeronautical Knowledge 10-2)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928144,
+    "imageFile": null,
+    "question": "What is center of gravity? What happens when it moves forward/aft?",
+    "questionId": 1204,
+    "type": "ALL"
+  },
+  {
+    "answer": "Marginal VFR (MVFR) is when ceilings are 1,000 to 3,000 feet and/or visibility is 3-5 miles inclusive.",
+    "certificate": "PRIVATE",
+    "createdDate": 1656595825027,
+    "imageFile": null,
+    "question": "What defines the current flight conditions as being MVFR.",
+    "questionId": 1205,
+    "type": "ALL"
+  },
+  {
+    "answer": "The true heading would be 341 degrees. During flight planning we are accustomed to converting from true course to magnetic heading, and that conversion can be remembered with the rhyme \"east is least, west is best\". This reminds us to subtract east variation and add west variation.\n\nHowever, in this question you asked to do the opposite, converting magnetic heading to true course. Thus the west variation needs to be subtracted from the magnetic heading to get the direction to true north.",
+    "certificate": "PRIVATE",
+    "createdDate": 1584130229393,
+    "imageFile": "cb3ffaa2-c262-406a-98e1-b1a7938e7153.png",
+    "question": "If you were on a 350 degree magnetic heading near this dashed magenta map line, what is your heading with respect to true north?",
+    "questionId": 1206,
+    "type": "ALL"
+  },
+  {
+    "answer": "Heading Indicator, Attitude Indicator (possibly turn coordinator, unless the latter is electrically powered)",
+    "certificate": "PRIVATE",
+    "createdDate": 1583935217826,
+    "imageFile": null,
+    "question": "What analog aircraft instruments might be affected by failure of the aircraft's vacuum pump?",
+    "questionId": 1207,
+    "type": "ALL"
+  },
+  {
+    "answer": "No special equipment other than that required by other regulation (day VFR, night VFR, IFR, etc.) is required to fly in Class E airspace.  (AIM 3-2-6)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519039850,
+    "imageFile": null,
+    "question": "What aircraft equipment is required to operate in Class E airspace specifically?\n",
+    "questionId": 1208,
+    "type": "ALL"
+  },
+  {
+    "answer": "One must have received and logged instruction from an authorized instructor in a high-performance airplane and have been found proficient and  have received a logbook endorsement attesting to that proficiency.  \n(If one has logged flight time as PIC prior to 4 August 1997 this training and endorsement is unnecessary.)\n14 CFR Part 61.31\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519075948,
+    "imageFile": null,
+    "question": "What must one have done to act as PIC of a high-performance airplane, ie., an airplane with an engine of more than 200 horsepower?\n",
+    "questionId": 1209,
+    "type": "ALL"
+  },
+  {
+    "answer": "To visually examine for water, sediment or other visible contamination.",
+    "certificate": "PRIVATE",
+    "createdDate": 1577923244395,
+    "imageFile": null,
+    "question": "Why should a sample of fuel be drained before each flight?",
+    "questionId": 1210,
+    "type": "ALL"
+  },
+  {
+    "answer": "If a change is sought, a letter and a proposed MEL that is based off of the Master MEL must be sent to the FAA for approval.",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928029,
+    "imageFile": null,
+    "question": "Can an aircraft owner change an Minimum Equipment List (MEL)?",
+    "questionId": 1211,
+    "type": "ALL"
+  },
+  {
+    "answer": "\u003cul\u003e\u003cli\u003eLocal Airport Advisory\u003cli\u003eMilitary Training Routes (MTR)\u003cli\u003eTemporary Flight Restriction (TFR)\u003cli\u003eParachute Jump Zones\u003cli\u003ePublished VFR Routes\u003cli\u003eTerminal Radar Service Areas (TRSA)\u003cli\u003eNational Security Areas (NSA)\u003cli\u003eFlight Restricted Zones (FRZ)\u003cli\u003eSpecial awareness training required by 14 CFR§91.161 for VFR within 60 nm of Washington, DC VOR\u003cli\u003eWildlife Areas/Wilderness Areas/National Parks and request to operate above 2,000' AGL\u003cli\u003eNOAA Marine Areas with requirement to operate above 2,000' AGL\u003cli\u003eTethered balloons for observation and weather recordings that extend on cables up to 60,000'\u003c/ul\u003e\n\n(Pilot’s Handbook of Aeronautical Knowledge 15-4)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578788923309,
+    "imageFile": null,
+    "question": "What are the different types of 'Other Airspace Areas'?",
+    "questionId": 1212,
+    "type": "ALL"
+  },
+  {
+    "answer": "If the inoperative equipment was not required for the flight (per the aircraft’s equipment list or the FARs), you must deactivate or remove the component **and** placard it \"inoperative\". Deactivating could be as simple as pulling the circuit breaker out and locking it out with a zip tie.\n\n(14 CFR §91.213)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928001,
+    "imageFile": null,
+    "question": "Can you legally fly an airplane with known inoperative equipment?",
+    "questionId": 1213,
+    "type": "ALL"
+  },
+  {
+    "answer": "Upon transitioning into the lower pressure area the  altimeter will show a higher altitude than is accurate, leading the pilot to believe they have more terrain and obstacle clearance than they actually have. As the aircraft climbs to higher altitude, the pressure drops, therefore a lower pressure results in a higher altimeter reading. Use the following mnemonic/saying to remember the correlation. \n\n**High to low, look out below**\n\nMeaning, going from a high pressure (or temperature) area to a lower pressure (or temperature) area be concerned about terrain or obstacle clearance until you have reset the altimeter to the new atmospheric pressure setting.\n\n(Pilot's Handbook of Aeronautical Knowledge 8-4)",
+    "certificate": "PRIVATE",
+    "createdDate": 1586700033042,
+    "imageFile": null,
+    "question": "When flying from a high pressure area into a lower pressure area, how does the altimeter react?",
+    "questionId": 1214,
+    "type": "ALL"
+  },
+  {
+    "answer": "From the data block: The airport name, the ICAO Airport Identifier, the type of and frequency for weather broadcasts from the airport, the airport's elevation in MSL', the airport has lighting but limitations exist, the airport's longest runway rounded to hundreds of feet, and the airport's CTAF frequency.\n\nFrom the magenta icon: The airport has a hard surface runway (and its general orientation is depicted) of length between 1,500 and 8,069', the airport has fuel available, and the airport has a rotating airport beacon at night. The magenta flag above the magenta circle indicates that the airport is a VFR reporting point.",
+    "certificate": "PRIVATE",
+    "createdDate": 1584128567440,
+    "imageFile": "17d04491-3436-4ec4-b2e0-faac60d0f6ff.png",
+    "question": "What information about the Asheboro airport can the pilot gain from the magenta data block and icons presented for the airport?",
+    "questionId": 1215,
+    "type": "ALL"
+  },
+  {
+    "answer": "A METAR is an Aviation Routine Weather Report. It is issued hourly (special METARS can be issued intermittently when important changes to the previously issued report occur) and are valid for the hour.\n\n(Aeronautical Information Manual 7-1-31)",
+    "certificate": "PRIVATE",
+    "createdDate": 1578931170238,
+    "imageFile": null,
+    "question": "What is a METAR? Types, issue, and valid times?",
+    "questionId": 1216,
+    "type": "ALL"
+  },
+  {
+    "answer": "Tailwheel airplanes and high-altitude airplanes also require training and an endorsement from a rated instructor.  (14 CFR Part 61.31)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519116820,
+    "imageFile": null,
+    "question": "To act as PIC of a high-performance or a complex airplane, one must receive training in a high-performance or comples airplane, as approprite, and obtain an endorsement from an authorized instructor attesting to proficiency.  What other types of ASEL aircraft also require specialized training and an endorsement?\n",
+    "questionId": 1217,
+    "type": "ALL"
+  },
+  {
+    "answer": "An unverified airport. This is a landing area available but warranting more\nthan ordinary precaution due to:\n\n1. lack of current information on field conditions, and/or\n2. available information indicates peculiar operating limitations.\n\n(FAA Chart Users Guide)",
+    "certificate": "PRIVATE",
+    "createdDate": 1584128183446,
+    "imageFile": "d23f24f4-3531-4dc1-b56e-8ed20a1afff4.png",
+    "question": "What does the magenta circle with the \"U\" inside it indicate?",
+    "questionId": 1218,
+    "type": "ALL"
+  },
+  {
+    "answer": "Calibrated airspeed (CAS) corrected for altitude and nonstandard temperature. The actual speed of the airplane in relation to its surrounding airmass.\n\n(Pilot's Handbook of Aeronautical Knowledge 8-9)\n\n\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668127627804,
+    "imageFile": null,
+    "question": "What is true airspeed?",
+    "questionId": 1219,
+    "type": "ALL"
+  },
+  {
+    "answer": "Students training for their private pilot certificate hold a student pilot certificate. Student pilot certificates issued after April 1st 2016, do not have an expiration date. If you have a paper student pilot certificate, see 61.19 or 61.23.\n\n(14 CFR \u0026sect;61.19(c))",
+    "certificate": "PRIVATE",
+    "createdDate": 1577824244824,
+    "imageFile": null,
+    "question": "What type of pilot certificate do you have and does it expire?",
+    "questionId": 1220,
+    "type": "ALL"
+  },
+  {
+    "answer": "It indicates that the pilot should fly a **right pattern** when landing on runway 22. If you look immediately west of the airport on the sectional chart you will see the likely reason for the non-standard pattern. Their is rising terrain due to a ridge line immediately west and flying a normal (left hand) pattern for 22 may put pilots too close to the terrain. This is only one of the many reasons a right pattern would be indicated. Others might be to avoid noise sensitive areas, or other obstructions.",
+    "certificate": "PRIVATE",
+    "createdDate": 1586706407658,
+    "imageFile": "fcd5e69a-6613-45dc-a2c4-2f9b035ceae3.png",
+    "question": "What does \"RP22\" in the Luray Caverns airport information block represent?",
+    "questionId": 1221,
+    "type": "ALL"
+  },
+  {
+    "answer": "No.\n\n(14 CFR \u0026sect;91.17)",
+    "certificate": "PRIVATE",
+    "createdDate": 1583934722873,
+    "imageFile": null,
+    "question": "Can a pilot carry a passenger who is, or appears to be, intoxicated with alcohol or drugs?",
+    "questionId": 1222,
+    "type": "ALL"
+  },
+  {
+    "answer": "The FAA has recognized that adverse aerodynamic effects on lifting surfaces begin as soon as frost begins to adhere to the surfaces. For example, the presence of frost may:\n\n1. Reduce a wing's maximum lift by 30 percent or more;\n2. reduce the angle of attack for maximum lift by several degrees;\n3. increase drag significantly; and \n4. change unexpectedly the aircraft's handling qualities and performance.\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1581609946035,
+    "imageFile": null,
+    "question": "Why is frost on an aircraft bad?",
+    "questionId": 1223,
+    "type": "ALL"
+  },
+  {
+    "answer": "VFR is when ceiling are greater than 3000 feet and visibility greater than 5 miles (includes sky clear).",
+    "certificate": "PRIVATE",
+    "createdDate": 1656595864487,
+    "imageFile": null,
+    "question": "What defines the current flight conditions as being VFR.",
+    "questionId": 1224,
+    "type": "ALL"
+  },
+  {
+    "answer": "Any FAA certificated mechanic (e.g. \"A\u0026P\"), including an A\u0026P/IA (mechanic with inspection authorization).\n\n(14 CFR \u0026sect;65.81)",
+    "certificate": "PRIVATE",
+    "createdDate": 1583931059749,
+    "imageFile": null,
+    "question": "Who can perform and approve a required 100-hour inspection?",
+    "questionId": 1225,
+    "type": "ALL"
+  },
+  {
+    "answer": "\"Controlled flight into terrain.\"  Most often caused by a loss of situational or positional awareness.  (AC 61-134)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519831609,
+    "imageFile": null,
+    "question": "What does CFIT stand for?\n",
+    "questionId": 1226,
+    "type": "ALL"
+  },
+  {
+    "answer": "U.S. aircraft registrations have to be renewed every seven years.\n\nIt was the case for many years that registration did not have to be renewed at all, but the FAA attempting to reduce the \"clutter\" in the registration database (i.e. remove aircraft that were no longer flying but were still registered) instituted a mandate to update registration regularly. It was initially a three year period, but in January of 2023 the registration renewal period was extended to seven years. This was an attempt to reduce the backlog of aircraft registration submissions.\n\n(https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-47/subpart-B/section-47.40)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577825091278,
+    "imageFile": null,
+    "question": "How often does a U.S. aircraft registration certificate expire?",
+    "questionId": 1227,
+    "type": "ALL"
+  },
+  {
+    "answer": "The magenta ring indicates that class E airspace starts at 700 feet AGL, so the pilot would be in __Class E__ airspace.",
+    "certificate": "PRIVATE",
+    "createdDate": 1584384865559,
+    "imageFile": "8ec9af8b-05fa-45ec-b32b-a32a2cfca003.png",
+    "question": "The pilot is flying at 850 feet AGL at the location indicated by the red arrow. What class airspace is the pilot in?",
+    "questionId": 1228,
+    "type": "ALL"
+  },
+  {
+    "answer": "Entry into Class C is authorized.\n\n( 14 CFR 91.130, See also FAA Pilot-Controller Glossary )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646954805851,
+    "imageFile": null,
+    "question": "You are approaching Class C airspace. You announce to the TRACON controller your intention to enter the Class C Airspace. You are told, \"Cessna 69012, standby.\" Are you cleared to enter the Class C Airspace?",
+    "questionId": 1229,
+    "type": "ALL"
+  },
+  {
+    "answer": "1000 feet above, 500 feet below, and 2000 feet horizontally.\n\n( 14 CFR 91.155 )",
+    "certificate": "PRIVATE",
+    "createdDate": 1646955217293,
+    "imageFile": null,
+    "question": "What is the distance from cloud criteria for a VFR aircraft flying at 7000 feet MSL in controlled airspace?",
+    "questionId": 1230,
+    "type": "ALL"
+  },
+  {
+    "answer": "The mixture control adjusts the amount of fuel in the fuel:air mixture.\n\n(Pilot's Handbook of Aeronautical Knowledge 7-9)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577923244342,
+    "imageFile": null,
+    "question": "What does the mixture control do?",
+    "questionId": 1231,
+    "type": "ALL"
+  },
+  {
+    "answer": "Tha alternator can fail resulting in the production of too little or too much electricity for the aircraft's electrical systems. Generally, monitoring the airplane's ammeter can detect continued under- or over-charge conditions. In some aircraft, low voltage lights or gauges may indicated an unusually low battery voltage, indicating the alternator is not supplying sufficient battery charging. The aircraft's POH should be consulted for indications of system failure and actions to take when failures occur.",
+    "certificate": "PRIVATE",
+    "createdDate": 1583948578025,
+    "imageFile": null,
+    "question": "What indications would the pilot have of an alternator failure?",
+    "questionId": 1232,
+    "type": "ALL"
+  },
+  {
+    "answer": "A rapid decrease in lift caused by the separation of airflow from the wing's surface, brought on by exceeding the critical angle of attack.\n\n(Pilot's Handbook of Aeronautical Knowledge 5-25)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921928160,
+    "imageFile": null,
+    "question": "What causes a wing to stall?",
+    "questionId": 1233,
+    "type": "ALL"
+  },
+  {
+    "answer": "The blue symbol (or line of blue symbols) on the surface analysis chart indicates a cold front.",
+    "certificate": "PRIVATE",
+    "createdDate": 1586706622261,
+    "imageFile": "b5dece7e-df7e-4c90-87ec-ac1d999d7ccc.png",
+    "question": "What does the blue symbol depicted on the surface analysis chart represent?",
+    "questionId": 1234,
+    "type": "ALL"
+  },
+  {
+    "answer": "Class A airspace is not specifically depicted on Sectional charts, in part because Sectional charts are intended primarily for visual flight at altitudes below the flight levels -- and because Class A airspace overlies all U.S. airspace and so has no boundaries that can be -- or need to be -- depicted. (AIM 3-2-2)",
+    "certificate": "PRIVATE",
+    "createdDate": 1644123339615,
+    "imageFile": null,
+    "question": "How is Class A airspace depicted on Sectional charts?",
+    "questionId": 1235,
+    "type": "ALL"
+  },
+  {
+    "answer": "Left wing: RED\u003cbr\u003e\nRight wing: GREEN\u003cbr\u003e\nTail: WHITE",
+    "certificate": "PRIVATE",
+    "createdDate": 1668519694327,
+    "imageFile": null,
+    "question": "What color are standard airplane position lights in each location?\u003cbr\u003e\nLeft wing?\u003cbr\u003e\nRight wing?\u003cbr\u003e\nTail?",
+    "questionId": 1236,
+    "type": "ALL"
+  },
+  {
+    "answer": "If an inflight emergency requires immediate action the PIC of an aircraft may deviate from any rule in 14 CFR Part 91, the Part of the FARs that regulates aircraft flight operations. If, and only if, the Administrator (the official name of the FAA in this context, requests a written report, the PIC \"shall\" send a written report to the Administrator about the deviation. (14 CFR Part 91.3)",
+    "certificate": "PRIVATE",
+    "createdDate": 1644123401189,
+    "imageFile": null,
+    "question": "When may the PIC of an aircraft deviate from any rule in CFR Part 91?",
+    "questionId": 1237,
+    "type": "ALL"
+  },
+  {
+    "answer": "* Aircraft will need to be trimmed nose up because of the weight of the nose, so the wing will be close to its critical angle of attack and stall speed.\n* Aircraft will be more stable\n* Performance decreases due to the increased drag from the high angle of attack\n* HIGHER stall speed (think about cruising close to critical angle of attack not far from the higher stall speed)\n* HIGHER take off speed...more mass to move and get off the ground.\n* Easier Stall recovery\n\n(Pilot's Handbook of Aeronautical Knowledge 10-2)\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1582558975220,
+    "imageFile": null,
+    "question": "What happens to an aircraft if the CG is very far forward?",
+    "questionId": 1238,
+    "type": "ALL"
+  },
+  {
+    "answer": "You are in G airspace. The magenta ring around the airport indicates that E airspace continues down from the nominal altitude of 1200 feet AGL to 700 feet AGL. This is to provide controlled airspace lower around the airport to protect instrument flight operations into and out of the airport.",
+    "certificate": "PRIVATE",
+    "createdDate": 1675708538503,
+    "imageFile": "929f2e28-4d71-4304-8e33-546583dfb0e2.png",
+    "question": "You take off from Henderson/Oxford Airport and climb to 100 feet AGL. What airspace are we in?",
+    "questionId": 1239,
+    "type": "ALL"
+  },
+  {
+    "answer": "Air cools the outside and oil cools the inside.\n\n(Pilot's Handbook of Aeronautical Knowledge 7-17)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577923244302,
+    "imageFile": null,
+    "question": "What is used to cool traditional aircraft engines found in most light aircraft?",
+    "questionId": 1240,
+    "type": "ALL"
+  },
+  {
+    "answer": "Not needed for training within 50 nm of home airport\n\n(14 CFR \u0026sect;91.207)",
+    "certificate": "PRIVATE",
+    "createdDate": 1577921927928,
+    "imageFile": null,
+    "question": "Is there any flight for which an Emergency Locator Transmitter (ELT) is not required?",
+    "questionId": 1241,
+    "type": "ALL"
+  },
+  {
+    "answer": "_Civil Twilight_ is the time before sunrise and sunset where the sun is\ngeometrically 6 degrees below the horizon, during which there is enough\nnatural light reflected from the upper atmosphere to illuminate terrestrial\nobjects.\n\n(Aeronautical Information Manual 10-2-2(1)(g))",
+    "certificate": "PRIVATE",
+    "createdDate": 1582557305193,
+    "imageFile": null,
+    "question": "What is Civil Twilight?",
+    "questionId": 1242,
+    "type": "ALL"
+  },
+  {
+    "answer": "Vx for a Cessna152 is __55 KIAS__\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1738876795819,
+    "imageFile": null,
+    "question": "What is Vx  (Best Angle of Climb) for a Cessna 152?",
+    "questionId": 1248,
+    "type": "C152"
+  },
+  {
+    "answer": "Vy for a Cessna 152 is __67KIAS__",
+    "certificate": "PRIVATE",
+    "createdDate": 1738876913889,
+    "imageFile": null,
+    "question": "What is Vy (Best Rate of Climb) for a Cessna 152?",
+    "questionId": 1249,
+    "type": "C152"
+  },
+  {
+    "answer": "Va for a Cessna 152 is __104 KIAS__",
+    "certificate": "PRIVATE",
+    "createdDate": 1738876967420,
+    "imageFile": null,
+    "question": "What is Va (Maneuvering Speed) for a Cessna 152?",
+    "questionId": 1250,
+    "type": "C152"
+  },
+  {
+    "answer": "Vfe for a Cessna 152 is \n\n* 10° flaps – __110 KIAS__\n* 20°+ flaps – __85 KIAS__\n\n(Cessna 172S POH)",
+    "certificate": "PRIVATE",
+    "createdDate": 1738876998203,
+    "imageFile": null,
+    "question": "What is Vfe (Flap Extension Speed) for a Cessna 172?",
+    "questionId": 1251,
+    "type": "C172"
+  },
+  {
+    "answer": "The magenta ring indicates that class E airspace starts at 700 feet AGL, so the pilot would be in __Class G__ airspace.",
+    "certificate": "PRIVATE",
+    "createdDate": 1739304459786,
+    "imageFile": "c4396e3d-75cf-4e52-bf47-bcfd9aa6314b.png",
+    "question": "The pilot is flying at 550 feet AGL at the location indicated by the red arrow. What class airspace is the pilot in?",
+    "questionId": 1254,
+    "type": "ALL"
+  },
+  {
+    "answer": "Vy for a Cessna 172 is __74 KIAS__ at sea level.\n\n(Cessna 172S POH)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739306203698,
+    "imageFile": null,
+    "question": "What is Vy (Best Rate of Climb) for a Cessna 172?",
+    "questionId": 1256,
+    "type": "C172"
+  },
+  {
+    "answer": "Vx for a Cessna 172 is __59 KIAS__ at sea level.\n\n(Cessna 172S POH)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739306494752,
+    "imageFile": null,
+    "question": "What is Vx (Best Angle of Climb) for a Cessna 172?",
+    "questionId": 1260,
+    "type": "C172"
+  },
+  {
+    "answer": "Va for a Cessna 172 is :\n\n* At 1900 pounds -- __90 KIAS__\n* At 2200 pounds -- __98 KIAS__\n* At 2550 pounds -- __105 KIAS__\n\nNote that maneuvering speed goes __up__ as the weight goes __up__, which surprises many people.\n\n(Cessna 172S POH)\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1739306569169,
+    "imageFile": null,
+    "question": "What is Va (Maneuvering Speed) for a Cessna 172?",
+    "questionId": 1262,
+    "type": "C172"
+  },
+  {
+    "answer": "Vfe for a Cessna 152 is __85 KIAS__",
+    "certificate": "PRIVATE",
+    "createdDate": 1739314938924,
+    "imageFile": null,
+    "question": "What is Vfe (Flap Extension Speed) for a Cessna 152?",
+    "questionId": 1264,
+    "type": "C152"
+  },
+  {
+    "answer": "Vne for a Cessna 152 is __149 KIAS__",
+    "certificate": "PRIVATE",
+    "createdDate": 1739315441894,
+    "imageFile": null,
+    "question": "What is Vne (NeverExceed Speed) for a Cessna 152?",
+    "questionId": 1269,
+    "type": "C152"
+  },
+  {
+    "answer": "Vne for a Cessna 172 is __163 KIAS__\n\n(Cessna 172S POH)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739315493850,
+    "imageFile": null,
+    "question": "What is Vne (Never Exceed Speed) for a Cessna 172?",
+    "questionId": 1270,
+    "type": "C172"
+  },
+  {
+    "answer": "Surprisingly, you can open the windows on a Cessna 172 right up to __Vne__, which is __163 KIAS__.\n\n(Cessna 172S POH)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739315661910,
+    "imageFile": null,
+    "question": "What is the maximum speed at which you can still open a Cessna 172's window?",
+    "questionId": 1271,
+    "type": "C172"
+  },
+  {
+    "answer": "Vne for a Piper Warrior (PA-28-161) is __160 KIAS__\n\n(Piper Warrior POH, 12/16/1976\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1739375962427,
+    "imageFile": null,
+    "question": "What is Vne (Never Exceed Speed) for a Piper Warrior (PA-28-161)?",
+    "questionId": 1281,
+    "type": "WARRIOR"
+  },
+  {
+    "answer": "Va for a Piper Warrior (PA-28-161) is :\n\n* At 1531 pounds -- __88 KIAS__\n* At 2325 pounds -- __111 KIAS__\n\nNote that maneuvering speed goes __up__ as the weight goes __up__, which surprises many people.\n\n(Piper Warrior POH, 12/16/1976\n\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1739376152540,
+    "imageFile": null,
+    "question": "What is Va (Maneuvering Speed) for a Piper Warrior (PA-28-161)?",
+    "questionId": 1282,
+    "type": "WARRIOR"
+  },
+  {
+    "answer": "Vfe for a Piper Warrior (PA-28-161) is __103 KIAS__\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1739376269456,
+    "imageFile": null,
+    "question": "What is Vfe (Flap Extension Speed) for a Piper Warrior (PA-28-161)?",
+    "questionId": 1284,
+    "type": "WARRIOR"
+  },
+  {
+    "answer": "Vx for a Piper Warrior (PA-28-161) is __63 KIAS__ at sea level.\n\n(Piper Warrior POH, 12/16/1976)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739376522103,
+    "imageFile": null,
+    "question": "What is Vx (Best Angle of Climb) for a Piper Warrior (PA-28-161)?",
+    "questionId": 1285,
+    "type": "WARRIOR"
+  },
+  {
+    "answer": "Vy for a Piper Warrior (PA-28-161) is __79 KIAS__ at sea level.\n\n(Piper Warrior POH, 12/16/1976)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739376602673,
+    "imageFile": null,
+    "question": "What is Vy (Best Rate of Climb) for a Piper Warrior (PA-28-161)?",
+    "questionId": 1286,
+    "type": "WARRIOR"
+  },
+  {
+    "answer": "The Maximum Demonstrated Crosswind component for a Piper Warrior (PA-28-161) is __17 KIAS__\n\n(Piper Warrior POH, 12/16/1976\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1739376723232,
+    "imageFile": null,
+    "question": "What is Maximum Demonstrated Crosswind component for a Piper Warrior (PA-28-161)?",
+    "questionId": 1287,
+    "type": "WARRIOR"
+  },
+  {
+    "answer": "A Cessna 152 fitted with standard tanks holds :\n\n* Total Capacity : __26 gallons__\n* Each Tank : __13 gallons__\n* Total Usable : __24.5 gallons__",
+    "certificate": "PRIVATE",
+    "createdDate": 1739398019068,
+    "imageFile": null,
+    "question": "What is the fuel capacity of a Cessna 152?",
+    "questionId": 1294,
+    "type": "C152"
+  },
+  {
+    "answer": "The __max gross weights__ for a Cessna 152 in normal category are :\n\n* Takeoff Weight : __1670 pounds__\n* Ramp weight : __1675 pounds__\n\n(Cessna 152 POH, 12/16/1976)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739398155184,
+    "imageFile": null,
+    "question": "What is the max gross takeoff weight and max ramp weight of a Cessna 152?",
+    "questionId": 1295,
+    "type": "C152"
+  },
+  {
+    "answer": "Vno for a Cessna152 is __111 KIAS__\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1739398304520,
+    "imageFile": null,
+    "question": "What is Vno (Maximum Structural Cruising Speed) for a Cessna 152?",
+    "questionId": 1297,
+    "type": "C152"
+  },
+  {
+    "answer": "The standard max gross weight for a Warrior (PA-28-161) is __2325 pounds__ in normal categor (__1950 pounds__ in utility category). However the Wings of Carolina Flying Club Warrior's all have an STC which raises their max gross weight to __2440 pounds__, a significant improvement in useful load.",
+    "certificate": "PRIVATE",
+    "createdDate": 1739398598240,
+    "imageFile": null,
+    "question": "What is the max gross weight of the Warrior (PA-28-161)?",
+    "questionId": 1298,
+    "type": "WARRIOR"
+  },
+  {
+    "answer": "Vno for a Piper Warrior (PA-28-161) is __126 KIAS__\n\n(Piper Warrior POH, 12/16/1876)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739398738236,
+    "imageFile": null,
+    "question": "What is Vno (Maximum Structural Cruising Speed) for a Piper Warrior (PA-28-161)?",
+    "questionId": 1299,
+    "type": "WARRIOR"
+  },
+  {
+    "answer": "The total fuel capacity for a Piper Warrior (PA-28-161) is :\n\n* Total Capacity : __50 gallons__\n* Usable Capacity : __48 gallons__\n* Fuel to Tabs : __17 gallons/side__ for a total of __34 gallons__\n\n(Piper Warrior POH, 12/16/1976)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739399023263,
+    "imageFile": null,
+    "question": "What is the fuel capacity of a Piper Warrior (PA-28-161)?",
+    "questionId": 1301,
+    "type": "WARRIOR"
+  },
+  {
+    "answer": "The fuel capacity of the Cessna 172 is :\n\n* Total Capacity : __56 gallons__\n* Usable Capacity : __53 gallons__\n\n(Cessna 172S POH)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739399205260,
+    "imageFile": null,
+    "question": "What is the fuel capacity of the Cessna 172?",
+    "questionId": 1302,
+    "type": "C172"
+  },
+  {
+    "answer": "The __max gross weights__ for a Cessna 172 in normal category are :\n\n* Takeoff Weight : __2550 pounds__\n* Ramp weight : __2558 pounds__\n\n(Cessna 172S POH)",
+    "certificate": "PRIVATE",
+    "createdDate": 1739399376884,
+    "imageFile": null,
+    "question": "What is the max gross takeoff weight and max ramp weight of a Cessna 172?",
+    "questionId": 1303,
+    "type": "C172"
+  },
+  {
+    "answer": "Vno for a Cessna172 is __129 KIAS__\n",
+    "certificate": "PRIVATE",
+    "createdDate": 1739399565699,
+    "imageFile": null,
+    "question": "What is Vno (Maximum Structural Cruising Speed) for a Cessna 172?",
+    "questionId": 1305,
+    "type": "C172"
+  }
+]
